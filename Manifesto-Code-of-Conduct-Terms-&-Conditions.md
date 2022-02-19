@@ -136,7 +136,7 @@ Reasons for an account restriction:
 
 ### Procedure if your account has been restricted
 
-Contesting restrictions can be made through the #copymints channel in the TEIA Discord (editors note: the copymint report channel on the Teia community discord server will be set up soon, for now copymint reports should be directed to the #report-copyminters channel of the [original "hicetnunc" Discord server](https://discord.gg/4CR2X7mh)). 
+Contesting restrictions can be made through the #copymints channel in the TEIA Discord (editors note: the copymint report channel on the Teia community discord server will be set up soon, for now copymint reports should be directed to the #report-copyminters channel of the [original "hicetnunc" Discord server](https://discord.gg/4CR2X7mh). 
 
 It’s important to notice that errors are possible at this stage, and we apologize for such cases. We ask users to direct such issues exclusively through the channel.
 
