@@ -1,18 +1,18 @@
-Welcome to the https://www.hicetnunc.xyz/ minting guide! Here you will learn how to mint your first OBJKT.
+Welcome to the Teia minting guide! Here you will learn how to mint your first OBJKT.
+
 ***
 ### **OBJKT**
 1: _(noun)_ something material that may be perceived by the senses
 
-2: _(noun)_ an NFT on hicetnunc.xyz
+2: _(noun)_ an NFT minted with the hicetnunc minting contract
 ***
-Continute to [Getting Started with Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/Getting-Started-with-Tezos) to learn how to acquire some tezos!
+
+Continute to [Getting Started with Tezos](https://github.com/teia-community/teia-ui/wiki/Getting-Started-with-Tezos) to learn how to acquire some tezos!
 ***
 Already have tezos?
 
-Continue to [How to mint 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-mint-🌿) to create your first OBJKT!
+Continue to [How to mint 🌿](https://github.com/teia-community/teia-ui/wiki/How-to-mint-🌿) to create your first OBJKT!
 
-**Hint:** Before you start minting, you can already start setting up your profile if you already have a wallet. Read [How to set up your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
+**Hint:** Before you start minting, you can already start setting up your profile if you already have a wallet. Read [How to set up your profile](https://github.com/teia-community/teia-ui/wiki/Edit-your-profile)
 
-**Hint:** In order for your Objekts to show up on the default feed on hicetnunc, you either have to have setup a profile, or hold some hDAO, or ideally, both. Read about [hDAO](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO) 
-
-**Hint:** _This open source project was launched March 1 and is still in its alpha stages. Please keep in mind that the site is being actively worked on by contributors who work on a volunteer basis, and features are constantly being pushed and updated to the site. This Wiki will try to keep in sync with the newest features and be updated as much as possible, but if some things don’t seem to match, please consult our [Discord](https://discord.gg/9qkgRsqa)._
+**Hint:** In order for your Objekts to show up on the default feed on teia, you either have to have setup a profile, or hold some hDAO, or ideally, both. Read about [hDAO](https://github.com/teia-community/teia-ui/wiki/hDAO) 
