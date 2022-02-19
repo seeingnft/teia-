@@ -1,13 +1,13 @@
 First you will need Tezos and a Tezos wallet.
 
 ## What is Tezos?
-Tezos (XTZ) is a liquid proof-of-stake cryptocurrency (LPoS). You can read more about it [here](https://en.wikipedia.org/wiki/Tezos)
+Tezos (XTZ) is a liquid proof-of-stake cryptocurrency (LPoS). You can read more about it [on the Wikipedia Article about Tezos](https://en.wikipedia.org/wiki/Tezos)
 
 ## What wallets do you recommend?
-Some wallets compatible to our dApp are [Temple wallet](https://templewallet.com/) which is a browser extension similar to Metamask, also being able to connect to Ledger devices. [Kukai wallet](https://wallet.kukai.app/), which is a browser wallet, being possible to connect making use of Direct Auth using twitter credentials. 
+Some wallets compatible to our dApp are [Temple wallet](https://templewallet.com/) which is a browser extension similar to Metamask, also being able to connect to Ledger devices. [Kukai wallet](https://wallet.kukai.app/), which is a browser wallet, being possible to connect making use of Direct Auth using twitter credentials.  Kukai also works on smartphones.
 
 ## Where to buy tezos
-Minting on hicetnunc only costs ~0.05 tezos. You can buy some on an exchange site like Binance or Kraken, however we recommend consulting with someone who is from whichever country you are in because exchange services are provided depending on the country.
+Minting on Teia only costs ~0.05 tezos. You can buy some on an exchange site like Binance or Kraken, however we recommend consulting with someone who is from whichever country you are in because exchange services are provided depending on the country.
 
 ## The H=N Tezos Fountain
 ### ⛲ Applying as an Artist
@@ -33,4 +33,4 @@ _Pro tip: This means you should refresh the page. Just give it a couple of secon
 
 Already have tezos? 
 
-Continue to [How to mint 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-mint-🌿) to create your first OBJKT!
+Continue to [How to mint 🌿](https://github.com/teia-community/teia-ui/wiki/How-to-mint-🌿) to create your first OBJKT!
