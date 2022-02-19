@@ -1,5 +1,5 @@
 * [Home](https://github.com/teia-community/teia-ui/wiki)
-* [Manifesto/Code of Conduct/Terms & Conditions](https://github.com/teia-community/teia-ui/wiki/Manifesto-Code-of-Conduct-Terms-&-Conditions)
+* [Core Values/Code of Conduct/Terms & Conditions](https://github.com/teia-community/teia-ui/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions)
 * [Reporting Abuse/Request Unban](https://github.com/teia-community/teia-ui/wiki/Reporting-Abuse-Requesting-Unban-on-the-Marketplace)
 
 
