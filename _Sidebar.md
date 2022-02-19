@@ -19,7 +19,6 @@
 * [Troubleshooting](https://github.com/teia-community/teia-ui/wiki/Troubleshooting)
 * [OBJKT1SWAP](https://github.com/teia-community/teia-ui/wiki/OBJKTV1SWAP-migration-to-v2)
 * [Features Not Yet Implemented](https://github.com/teia-community/teia-ui/wiki/Features-not-yet-implemented)
-* [hDAO ○](https://github.com/teia-community/teia-ui/wiki/hDAO)
 * [Contributing](https://github.com/teia-community/teia-ui/wiki/Contributing)
 * [Contributing (Beginner's Guide)](https://github.com/teia-community/teia-ui/wiki/Contributing-Beginners-Guide)
 * [Beware Copyminters!](https://github.com/teia-community/teia-ui/wiki/Beware-copyminters!)
