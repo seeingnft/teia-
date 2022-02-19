@@ -1,4 +1,6 @@
 * [Home](https://github.com/teia-community/teia-ui/wiki)
+* [Reporting Abuse/Request Unban on the Marketplace](https://github.com/teia-community/teia-ui/wiki/Reporting-Abuse-Requesting-Unban-on-the-Marketplace)
+
 
 **Starters Guide**
 * [Introduction](https://github.com/teia-community/teia-ui/wiki/Introduction)
@@ -21,7 +23,6 @@
 * [Contributing](https://github.com/teia-community/teia-ui/wiki/Contributing)
 * [Contributing (Beginner's Guide)](https://github.com/teia-community/teia-ui/wiki/Contributing-Beginners-Guide)
 * [Beware Copyminters!](https://github.com/teia-community/teia-ui/wiki/Beware-copyminters!)
-* [Reporting Abuse/Request Unban on the Marketplace](https://github.com/teia-community/teia-ui/wiki/Reporting-Abuse-Requesting-Unban-on-the-Marketplace)
 
 **Misc**
 * [NFT Creators' Code of Conduct](https://github.com/teia-community/teia-ui/wiki/NFT-Creators-Code-of-Conduct)
