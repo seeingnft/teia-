@@ -1,7 +1,7 @@
 Welcome to the [teia.art](https://teia.art/) wiki!
 
 
-The Teia Community is an open group working on a new community-owned, open source fork of the Tezos NFT platform [hicetnunc](https://www.hicetnunc.xyz/) that aims at continuing the hen spirit.
+The Teia Community is an open group working on a new community-owned, open source fork of the Tezos NFT platform [hicetnunc](https://www.hicetnunc.xyz/) that aims at continuing the hen spirit in a decentralised way.
 
 
 **This Wiki is currently under construction**
