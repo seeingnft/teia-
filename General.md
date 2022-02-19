@@ -3,7 +3,7 @@
 First of all, congratulations. You can use the following the track your recent sales: https://hicdex.com/sold
 
 ## How do I get a notification when something sells?
-You can use the telegram bot that we have listed in the [Tools](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) section
+You can use the telegram bot that we have listed in the [Tools](https://github.com/teia-community/teia-ui/wiki/Tools-made-by-the-community) section
 
 ## Where can I see overall statistics for the site?
 https://hicdex.com/charts
@@ -15,10 +15,10 @@ This is currently being developed. We are not taking any pull requests at the mo
 We recommend mp4, although you can mint webm, mov, and ogv. H.265 codec is not supported, we recommend H.264.
 
 ## I have an idea for a new feature or an improvement! Where can I submit it?
-The official way to submit features to the developers is on the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues). There is also the #feature-requests and #suggestions channel in the [Discord](https://discord.gg/Yx6UN5SkCd).
+The official way to submit features to the developers is on the [github issues](https://github.com/teia-community/teia-ui/issues). There is also the #feature-requests channel in the [Teia Discord](https://discord.gg/94mdtxcY).
 
 ## How do I add my name and avatar to my profile?
-Please see [Editing your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
+Please see [Editing your profile](https://github.com/teia-community/teia-ui/wiki/Edit-your-profile)
 
 ## Can I sell my OBJKTs on Opensea?
 Opensea announced in February 2021 that they will be working with Tezos. They haven't announced any news since then. We can only hope this will be an option in the future.
@@ -34,25 +34,10 @@ Unfortunately, there are people minting NFTs who did not create what they upload
 To make it easier for buyers, please leave a trace to any social profile or website in the description of your artwork, so potential buyers can validate the authenticity. If you can link the NFTs the artist is advertising on the profile with the NFTs on Hicetnunc, you can assume it is legit.
 
 ## I want to report a copyminter
-The fastest way to report a copyminter in our [discord](https://discord.gg/Yx6UN5SkCd) in the #report-copyminters channel.
+The fastest way to report a copyminter in [hicetnuncs discord](https://discord.gg/Yx6UN5SkCd) in the #report-copyminters channel.
 
 ## How can I promote my NFT or my NFT exhibition?
-Our discord has the following promotion channels:
-
-#external-promotion
-#share-your-nft
-
-You can also make a post on the telegram or reddit in r/hicetnunc, or can tag us in your posts on instagram and twitter.
-
-https://discord.gg/XNcuDQtezx
-
-https://t.me/hicetnunc2000
-
-reddit.com/r/hicetnunc
-
-https://twitter.com/hicetnunc2000
-
-https://www.instagram.com/hicetnunc2000
+On the Teia Discord please only use the channel #shill for self promotion
 
 ## Do you support multiple languages?
-This feature has not been released and development was abandoned. You can follow the development [here](https://github.com/hicetnunc2000/hicetnunc/issues/173)
+We are working on multiple language support on Teia. we also try to translate as many documents as possible to keep everything accessible. But currently teia.art is only available in english.
