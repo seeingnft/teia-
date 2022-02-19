@@ -1,4 +1,4 @@
-Welcome to the Teia minting guide! Here you will learn how to mint your first OBJKT.
+Welcome to the Teia starting guide! Here you will learn how to mint and trade your first OBJKT.
 
 ***
 ### **OBJKT**
