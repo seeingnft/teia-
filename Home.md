@@ -1,10 +1,8 @@
-Welcome to the https://www.hicetnunc.xyz/ wiki!
+Welcome to the [teia.art](https://teia.art/) wiki!
 
-### **hic et nunc** 
-_(Latin)_
+The Teia Community is an open group working on a new community-owned, open source fork of the Tezos NFT platform [hicetnunc](https://www.hicetnunc.xyz/) that aims at continuing the hen spirit.
 
-### **here and now**
-_(English)_
+**This Wiki is currently under construction**
 
 
 ***
