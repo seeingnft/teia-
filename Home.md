@@ -4,11 +4,10 @@ Welcome to the [teia.art](https://teia.art/) wiki!
 The Teia Community is an open group working on a new community-owned, open source fork of the Tezos NFT platform [hicetnunc](https://www.hicetnunc.xyz/) that aims at continuing the hen spirit in a decentralised way.
 
 
-**This Wiki is currently under construction**
 
-***
 
-## Enter Teia Community
+
+## Enter the Teia Community
 - [The Teia Blog](https://blog.teia.ar)
 - [Teia Community Discord Server](https://discord.gg/nFhy5Qeh)
 - [Discourse Forum](https://discourse.hencommunity.quest/)
