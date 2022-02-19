@@ -4,6 +4,9 @@ The Teia Community is an open group working on a new community-owned, open sourc
 
 **This Wiki is currently under construction**
 
+***
+_Please keep in mind that the site is being actively worked on by contributors who work on a volunteer basis, and features are constantly being pushed and updated to the site. This Wiki will try to keep in sync with the newest features and be updated as much as possible, but if some things don’t seem to match, please consult our [Discord](https://discord.gg/JV2ehAn2)._
+
 
 ***
 
