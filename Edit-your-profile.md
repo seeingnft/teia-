@@ -1,6 +1,6 @@
 ## Settings > Config
 
-To edit your profile use the **Settings** option in the menu or go to: https://www.hicetnunc.art/config
+To edit your profile use the **Settings** option in the menu or go to: https://www.teia.art/config
 
 **IMPORTANT** _When configuring your username, please don't use any special characters or spaces for the username. Its also case-sensitive, so we recommend ALL LOWERCASE_
 
@@ -12,7 +12,7 @@ Tezos Profiles (https://tzprofiles.com/) is a web application where users can as
 
 **IMPORTANT:** _Tezos Profiles transaction costs 0.3 tez, so avoid doing this if you are a fountain reciever (you only have 0.5 tez) or are low on funds_
 
-If tzprofiles seems too complicated, you can type your social media handles on your profile description and your profile link (hicetnunc.xyz/yourusername) on your social media. This is a simple way to validate your identity
+If tzprofiles seems too complicated, you can type your social media handles on your profile description and your profile link (teia.art/yourusername) on your social media. This is a simple way to validate your identity
 
 
 ![](https://i.ibb.co/kyCv6ZT/2.png)
@@ -45,6 +45,6 @@ If tzprofiles seems too complicated, you can type your social media handles on y
 <img width="611" alt="Screen Shot 2021-08-09 at 4 21 24 PM" src="https://user-images.githubusercontent.com/18144858/128769230-21c38cc5-690d-4aab-9e0d-e371a1b7ed59.png">
 
 - You will now go through the process of deploying your Tezos Profile which consists of signing operations (no-cost, uploading your credentials) and deploying your Tezos Profiles smart contract.
-- After this is complete, your Tezos Profile is now available and can be used by applications and services like Hic et Nunc!
+- After this is complete, your Tezos Profile is now available and can be used by applications and services like Teia!
 
-You can ask for help troubleshooting this process in the verification channel in our [Discord](https://discord.gg/XWCPjXUYeN).
+You can ask for help troubleshooting this process in the verification channel in our [Discord](https://discord.gg/nSGGhxKa).
