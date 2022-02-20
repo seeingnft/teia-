@@ -8,7 +8,7 @@ The Teia Community is an open group working on a new community-owned, open sourc
 
 
 ## Enter the Teia Community
-- [The Teia Blog](https://blog.teia.ar)
+- [The Teia Blog](https://blog.teia.art)
 - [Teia Community Discord Server](https://discord.gg/nFhy5Qeh)
 - [Discourse Forum](https://discourse.hencommunity.quest/)
 - [Teia Vote](https://vote.hencommunity.quest/)
