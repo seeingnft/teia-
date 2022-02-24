@@ -1,4 +1,4 @@
-[Português](https://github.com/teia-community/teia-docs/wiki/Home-PT-br)
+[Português](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
 
 ***
 

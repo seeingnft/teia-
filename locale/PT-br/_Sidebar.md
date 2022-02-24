@@ -8,23 +8,23 @@
 
 
 **Getting Started**
-* [Introduction](https://github.com/teia-community/teia-docs/wiki/Introduction-PT-br)
-* [Getting started with Tezos](https://github.com/teia-community/teia-docs/wiki/Getting-Started-with-Tezos-PT-br)
-* [How to mint 🌿](https://github.com/teia-community/teia-docs/wiki/How-to-mint-🌿-PT-br)
-* [How to swap 🔃](https://github.com/teia-community/teia-docs/wiki/How-to-swap-🔃-PT-br)
-* [How to cancel ❌](https://github.com/teia-community/teia-docs/wiki/How-to-cancel-❌-PT-br)
-* [How to burn 🔥](https://github.com/teia-community/teia-docs/wiki/How-to-burn-🔥-PT-br)
+* [Introdução](https://github.com/teia-community/teia-docs/wiki/Introduction-pt-BR)
+* [Introdução ao Tezos](https://github.com/teia-community/teia-docs/wiki/Getting-Started-with-Tezos-pt-BR)
+* [Como cunhar 🌿](https://github.com/teia-community/teia-docs/wiki/How-to-mint-🌿-pt-BR)
+* [Como Trocar 🔃](https://github.com/teia-community/teia-docs/wiki/How-to-swap-🔃-pt-BR)
+* [Cancelar ❌](https://github.com/teia-community/teia-docs/wiki/How-to-cancel-❌-pt-BR)
+* [Como descartar(burn) 🔥](https://github.com/teia-community/teia-docs/wiki/How-to-burn-🔥-pt-BR)
 * [How to resell 🏪](https://github.com/teia-community/teia-docs/wiki/How-to-resell-🏪) (English)
 
 **How-Tos**
-* [Edit your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile-PT-br)
+* [Edite Seu Perfil](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile-pt-BR)
 * [Interactive OBJKTs](https://github.com/teia-community/teia-docs/wiki/Interactive-OBJKTs) (English)
 * [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials) (English)
 * [Contributing](https://github.com/teia-community/teia-docs/wiki/Contributing) (English)
 * [Contributing (Beginner's Guide)](https://github.com/teia-community/teia-docs/wiki/Contributing-Beginners-Guide) (English)
 
 **FAQs**
-* [What is hDAO](https://github.com/teia-community/teia-docs/wiki/hDAO-PT-br)
+* [hDAO](https://github.com/teia-community/teia-docs/wiki/hDAO-pt-BR)
 * [General](https://github.com/teia-community/teia-docs/wiki/General) (English)
 * [Maintenance Fees](https://github.com/teia-community/teia-docs/wiki/Maintenance-fees) (English)
 * [Troubleshooting](https://github.com/teia-community/teia-docs/wiki/Troubleshooting) (English)
