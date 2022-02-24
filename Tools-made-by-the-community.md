@@ -38,7 +38,7 @@
 * [Running IPFS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
 
 ## Minting Tools
-* [Music Album HTML Template](https://www.hicetnunc.xyz/objkt/25359) by @cryptemes [[github]](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
+* [Music Album HTML Template](https://teia.art/objkt/25359) by @cryptemes [[github]](https://github.com/EMES77/HEN_MusicAlbum_Template/releases/download/v2.0/CRYPTEMES_HEN_MusicAlbum_Template.zip)
 
 ## Sharing Tools
 * Share your OBJKT link with image preview on social media, just replace your OBJKT ID by @PureSpider
@@ -59,7 +59,7 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 * [Audit tool](https://hicetnunc.miketyka.com/audit) Audit your creations and collection, see transaction histories.
 
-* [OBJKT transaction history](https://hicetnunc.xyz/objkt/46415) by Javier Garciá Carpio
+* [OBJKT transaction history](https://teia.art/objkt/46415) by Javier Garciá Carpio
 
 * [HICTORY](https://hictory.glitch.me/#tz2HwP1JKEjEy4H8RxPMkoHWuSzUWZsRSC3R) by [Leith Ben Abdessalem](https://twitter.com/LeithBA): An easy to read transaction history.
 

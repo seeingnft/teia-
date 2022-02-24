@@ -25,7 +25,7 @@ Use this https://hicdex.com/objkt
 The hDAO is one of the parameters you will see in the list
 
 ## I found a bug. How do I report it?
-Head over to the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
+Head over to the [github issues](https://github.com/teia-community/teia-ui/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
 
 ## I'm having trouble syncing.
 Try opening an incognito tab or clearing your cookies/cache to restart the wallet connection. You can also try a different browser. Also, try clicking the hamburger menu to "unsync" and then sync again.

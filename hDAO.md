@@ -38,7 +38,7 @@ Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microf
 You can also go to our discord to join the #tezos channel or learn more in the #hdao-governance channel.
 
 ## how to change hDAO curation amount
-Under your account [configuration](https://hicetnunc.xyz/config) it's possible to determine how much hDAO is going to be used while curating as `advanced settings` where `1000000 μhDAO = 1 hDAO`. When you click save, the value is stored in your local session storage. This should not trigger a wallet transaction.
+Under your account [configuration](https://teia.art/config) it's possible to determine how much hDAO is going to be used while curating as `advanced settings` where `1000000 μhDAO = 1 hDAO`. When you click save, the value is stored in your local session storage. This should not trigger a wallet transaction.
 
 ## Contract addresses
 

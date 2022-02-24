@@ -11,14 +11,14 @@ Bem-vindo ao guia de criação de hicetnunc! Aqui você aprenderá como cunhar s
 
 ***
 
-Continue em [Iniciando com Tezos](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Getting-Started-with-Tezos) para aprender como adquirir alguns tezos!
+Continue em [Iniciando com Tezos](https://github.com/teia-community/teia-docs/wiki/PT:Getting-Started-with-Tezos) para aprender como adquirir alguns tezos!
 
 Já tem tezos?
-Continue em [Como cunhar 🌿](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-cunhar) para criar seu primeiro OBJKT!
+Continue em [Como cunhar 🌿](https://github.com/teia-community/teia-docs/wiki/PT:Como-cunhar) para criar seu primeiro OBJKT!
 
 ***
 
-Dica: antes de começar a cunhar, você já pode começar a configurar seu perfil se já tiver uma carteira. Leia [Como configurar seu perfil](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Edite-Seu-Perfil)
+Dica: antes de começar a cunhar, você já pode começar a configurar seu perfil se já tiver uma carteira. Leia [Como configurar seu perfil](https://github.com/teia-community/teia-docs/wiki/PT:Edite-Seu-Perfil)
 
 ***
 
@@ -27,4 +27,4 @@ Dica: Este projeto de código aberto foi lançado em 1º de março e ainda está
 
 ***
 
-> Deseja contribuir com o wiki? Por favor, veja [Como contribuir para o Wiki](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Contributing#how-to-contribute-to-the-wiki)?
+> Deseja contribuir com o wiki? Por favor, veja [Como contribuir para o Wiki](https://github.com/teia-community/teia-docs/wiki/PT:Contributing#how-to-contribute-to-the-wiki)?

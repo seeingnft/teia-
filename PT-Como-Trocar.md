@@ -22,7 +22,7 @@ _Importante: Quando você está trocando, está enviando uma quantidade de OBJKT
 ***
 
 
-Avance até [Como cancelar ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/PT:Como-cancelar) para saber como retirar o seu OBJKT do mercado ou alterar o preço.
+Avance até [Como cancelar ❌](https://github.com/teia-community/teia-docs/wiki/PT:Como-cancelar) para saber como retirar o seu OBJKT do mercado ou alterar o preço.
 
 Socorro, minha carteira está apresentando um erro de **fundos disponíveis insuficientes!**
 Você pode estar tentando trocar mais edições do que cunhou, ou seu objeto ainda está à venda e você precisa cancelá-lo primeiro.

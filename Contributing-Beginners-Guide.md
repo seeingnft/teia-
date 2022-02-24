@@ -1,7 +1,7 @@
-# How to Contribute to hicetnunc.xyz? (Beginners Guide)
-You can contribute to Hic et Nunc either by contributing bug fixes and development, and other helpful documents with new content or translations.
+# How to Contribute to Teia? (Beginners Guide)
+You can contribute to Teia either by contributing bug fixes and development, and other helpful documents with new content or translations.
 
-Please read the [Contribution Guide](https://github.com/hicetnunc2000/hicetnunc/blob/develop/CONTRIBUTING.md) or follow the steps below:
+Please read the [Contribution Guide](https://github.com/teia-community/teia-ui/blob/develop/CONTRIBUTING.md) or follow the steps below:
 
 Here are the steps to get started:
 

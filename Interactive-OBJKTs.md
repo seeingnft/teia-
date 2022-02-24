@@ -1,6 +1,6 @@
 Below is a guide to minting an interactive OBJKT.
 
-Also check out the [templates](https://github.com/hicetnunc2000/hicetnunc/tree/develop/templates) for p5.js, shaders, html, and svg.
+Also check out the [templates](https://github.com/teia-community/teia-ui/tree/develop/templates) for p5.js, shaders, html, and svg.
 
 
 ***
@@ -9,7 +9,7 @@ author: @pichiste (Daniel Massey)
 
 # About
 
-Hit et nunc enables you to publish web-based interactive and generative artworks by uploading a zip archive. If you're starting on a new project, have a look at our starter [templates](https://github.com/hicetnunc2000/hicetnunc/tree/main/templates). The following guide walks you through the process of minting your first interactive OBJKT.
+Teia enables you to publish web-based interactive and generative artworks by uploading a zip archive. If you're starting on a new project, have a look at our starter [templates](https://github.com/teia-community/teia-ui/tree/main/templates). The following guide walks you through the process of minting your first interactive OBJKT.
 
 # Getting Started
 
@@ -35,7 +35,7 @@ You will need to include all libraries, scripts, styles, and other assets refere
 
 ## Features
 
-The following features will be enabled on the iframe displaying your work on [hicetnunc.xyz](https://www.hicetnunc.xyz):
+The following features will be enabled on the iframe displaying your work on [teia.art](https://teia.art):
 ```
 accelerometer
 camera
@@ -69,13 +69,13 @@ Interactive OBJKTS can access the following external domains:
 | https://*.wikidata.org/ | | | | | ✅ |
 | https://*.coinmarketcap.com/ | | | | | ✅ |
 | https://api.openweathermap.org/ | | | | | ✅ |
-| https://hicetnunc.xyz/ | | | | | ✅ |
-| https://*.hicetnunc.xyz/ | | | | | ✅ |
+| https://teia.art/ | | | | | ✅ |
+| https://*.teia.art/ | | | | | ✅ |
 | https://api.hicdex.com/ | | | | | ✅ |
 | services.tzkt.io |✅ | | | |  |
 ## User Data
 
-Your project will be displayed within a sandboxed iframe, meaning it won't have access to any user data from the [hicetnunc.xyz](http://hicetnunc.xyz) site. However, the viewer and creator addresses are passed into the iframe via URL query parameters:
+Your project will be displayed within a sandboxed iframe, meaning it won't have access to any user data from the [teia.art](http://teia.art) site. However, the viewer and creator addresses are passed into the iframe via URL query parameters:
 
 ```
 ?viewer={VIEWER_ADDRESS}&creator={CREATOR_ADDRESS}
@@ -91,7 +91,7 @@ const viewer = new URLSearchParams(window.location.search).get('viewer')
 ## Minting
 
 - Once your project folder is ready to be minted, go ahead and compress it into a zip file.
-- Head to [https://hicetnunc.xyz/mint](https://hicetnunc.xyz/mint), fill out the information for your work, and upload your zip file.
+- Head to [https://teia.art/mint](https://teia.art/mint), fill out the information for your work, and upload your zip file.
 - You should now see a preview of your work embedded on the page. Make sure to test it thoroughly to make sure it works as expected.
 - If everything looks good, make sure your wallet is synced and press the "mint" button at the bottom of the page.
 - Congratulations! You have just minted your first interactive OBJKT 🎉
@@ -108,4 +108,4 @@ https://github.com/hicetnunc2000/hicetnunc/issues/602
 
 # Help
 
-If you find a bug, please open an issue on [Github](https://github.com/hicetnunc2000/hicetnunc/issues). Otherwise, seek help on [Discord](https://discord.com/invite/jKNy6PynPK).
+If you find a bug, please open an issue on [Github](https://github.com/teia-community/teia-ui/issues). Otherwise, seek help on [Discord](https://discord.com/invite/jKNy6PynPK).
