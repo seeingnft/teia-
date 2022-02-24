@@ -18,7 +18,7 @@
 
 **Imporant:** _At this point your OBJKT doesn’t have a price on it._ 
 
-Continue to the [How to swap 🔃](https://github.com/teia-community/teia-ui/wiki/How-to-swap-🔃) to learn how to set prices for your OBJKTs.
+Continue to the [How to swap 🔃](https://github.com/teia-community/teia-docs/wiki/How-to-swap-🔃) to learn how to set prices for your OBJKTs.
 
 ***
 

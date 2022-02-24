@@ -33,4 +33,4 @@ _Pro tip: This means you should refresh the page. Just give it a couple of secon
 
 Already have tezos? 
 
-Continue to [How to mint 🌿](https://github.com/teia-community/teia-ui/wiki/How-to-mint-🌿) to create your first OBJKT!
+Continue to [How to mint 🌿](https://github.com/teia-community/teia-docs/wiki/How-to-mint-🌿) to create your first OBJKT!

@@ -3,7 +3,7 @@
 First of all, congratulations. You can use the following the track your recent sales: https://hicdex.com/sold
 
 ## How do I get a notification when something sells?
-You can use the telegram bot that we have listed in the [Tools](https://github.com/teia-community/teia-ui/wiki/Tools-made-by-the-community) section
+You can use the telegram bot that we have listed in the [Tools](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community) section
 
 ## Where can I see overall statistics for the site?
 https://hicdex.com/charts
@@ -18,7 +18,7 @@ We recommend mp4, although you can mint webm, mov, and ogv. H.265 codec is not s
 The official way to submit features to the developers is on the [github issues](https://github.com/teia-community/teia-ui/issues). There is also the #feature-requests channel in the [Teia Discord](https://discord.gg/94mdtxcY).
 
 ## How do I add my name and avatar to my profile?
-Please see [Editing your profile](https://github.com/teia-community/teia-ui/wiki/Edit-your-profile)
+Please see [Editing your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile)
 
 ## Can I sell my OBJKTs on Opensea?
 Opensea announced in February 2021 that they will be working with Tezos. They haven't announced any news since then. We can only hope this will be an option in the future.
