@@ -1,18 +1,12 @@
-### **burn**
-
 1: _(verb)_ to "delete" your OBJKT
 
-OBJKTs cannot be "deleted". Transactions on the blockchain are irreversible, that's why you can't "delete" it, you can only send it to another wallet. The "burn" button sends the OBJKT to the burn wallet for you, or you can send it yourself from your wallet to the "burn wallet". The burn wallet is an wallet that nobody owns a key of.
+Transactions on the blockchain are irreversible, so you can't "delete" them. The "burn" button sends the OBJKT to the [burn address](https://tzkt.io/tz1burnburnburnburnburnburnburjAYjjX/operations/), or you can send it yourself using your wallet app. The burn address is an open address that nobody owns a key.
 
-***
-
-1. Make sure you are synced.
-2. Press the burn button (make sure you canceled the OBJKT first if its already swapped) In your wallet, the OBJKT should should up as being transferred to the burn wallet.
+To burn an OBJKT:
+1. Make sure you are wallet app is synced with Teia.
+2. Make sure you cancel the swap of the OBJKT so it can be available in your wallet when you are ready to burn it.
 ![Please cancel swap prior to burn operation](https://i.ibb.co/c6x821J/sketch-1619101908825.png)
-**Important:** _You need to [cancel] the swap of the OBJKT so it can be available in your wallet when you are ready to burn it._
+3. Press the burn button. Your wallet app will prompt you to confirm the transaction. Once the transaction completes, your wallet app will show the OBJKT as transferred to the burn address.
+4. You can also send the OBJKT to a burn address directly from your Tezos wallet. The address is: `tz1burnburnburnburnburnburnburjAYjjX`. 
 
-3. If the burn button is not working, you can send the OBJKT to a burn wallet address directly from your Tezos wallet. The address is: `tz1burnburnburnburnburnburnburjAYjjX`. 
-
-### **troubleshoot**
-**Important:** _If someone buys one of your editions, even if you burn the rest of them, the objkt won't disappear from your profile_
-***
+**Note:** _If someone buys one of your editions, even if you burn the rest of them, the OBJKT won't disappear from your profile_
