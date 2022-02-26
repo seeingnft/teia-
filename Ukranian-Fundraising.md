@@ -4,19 +4,29 @@ In support for our Ukrainian friends, brothers and sisters, Versum and FxHash se
 
 
 if you wish to donate, send tezos (no direct NFT donations please, only tezos) or set up a collab contract to direct % of the fees to this fundraiser address (see how to below):
+
 `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx`
 
 
 The currently supported organisations with this contract are: 
+
 [save the children](https://thegivingblock.com/donate/save-the-children/)
+
 [international medical corps](https://thegivingblock.com/donate/international-medical-corps/)
+
 [direct relief](https://thegivingblock.com/donate/direct-relief/)
+
 [CARE](https://thegivingblock.com/donate/care/)
+
 [project HOPE](https://thegivingblock.com/donate/project-hope/)
+
 [CPJ](https://thegivingblock.com/donate/committee-to-protect-journalists/)
+
 [OutRight Action International](https://thegivingblock.com/donate/outright-action-international/) 
 
+
 the organisations chosen are all non-militarian, only medical, aid, journalism, etc.
+
 organisations can be changed later if found problematic.
 
 
@@ -41,6 +51,7 @@ Enter your address first with the number of shares as 10 and then an option for 
 
 Once another collaborator field shows up add the Contract Address `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` to the second field and enter the shares as well as 10
 Once you have made sure the address is enter correctly click on next:
+
 <img width='256px' src="img/ukraine_fundraiser/step_04.png">
 
 
