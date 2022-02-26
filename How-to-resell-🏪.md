@@ -1,14 +1,16 @@
-How to place your OBJKT on the secondary market.
+How to sell an OBJKT you own.
 
 ***
-
+This is also referred to as placing your OBJKT on the secondary market.
 
 1. Make sure your wallet is synced.
-2. Head over to your [Collections] and click on the OBJKT.
-3. Click on the [collectors] tab to see all of the owners and sellers.
-4. Click on [swap] and set a price for your OBJKT.
+2. Load your account page on Teia.
+3. Click on "collection" and click on the OBJKT you want to resell.
+4. Click on the "listings" tab to see all of the owners and sellers.
+5. Click on "swap" and set a price for your OBJKT.
+6. Click on the "swap" button and confirm the transaction in your wallet app.
 
-_IMPORTANT: Once swapping something up for sale, it is sent to the Teia escrow wallet while it is "on the market". Therefore, the OBJKT will disappear from your collections. Don't worry, its still up for sale!_
+_IMPORTANT: Once swapping something up for sale, it is held in the Teia escrow wallet while it is "on the market." Therefore, the OBJKT will disappear from your collections. Don't worry; it's still up for sale!_
 
 
 ***
