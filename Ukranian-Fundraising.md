@@ -3,7 +3,7 @@
 In support for our Ukrainian friends, brothers and sisters, [Veqtor](https://twitter.com/Veqtor/status/1497167740146266112?s=20&t=mmvu8KPxybOa0TQXX32nFw) from [Versum](https://twitter.com/versumofficial) and [FxHash](https://twitter.com/fx_hash_/status/1497113572085751810?s=20&t=mmvu8KPxybOa0TQXX32nFw) set up a shared donation contract that will redirect tezos to multiple charity orgs (listed below) in support of Ukraine relief, and we want to help support this initiative.
 
 
-If you wish to donate, send tezos (no direct NFT donations please, only tezos) or set up a collab contract to direct % of the fees to this fundraiser address (see how to below):
+If you wish to donate, send tezos (no direct NFT donations please, only tezos) or set up a collab contract on [teia.art](https://teia.art/) to direct % of the fees to this fundraiser address (see how to below):
 
 `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx`
 
