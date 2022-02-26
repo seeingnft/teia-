@@ -81,6 +81,9 @@ At the end `manage` tab should show your collab contract:
 
 <img width='700px' src="img/ukraine_fundraiser/step_08.png">
 
+To mint your OBJKT on the created contract, make sure to be signed into the contract while using the "mint" page.
+
+<img width='700px' src="https://user-images.githubusercontent.com/97635650/155844619-4e10785b-b901-4a73-a930-d07fc6fabbbe.JPG">
 
 
 If you want 100% of the proceeds to go to Ukraine set your share as a collaborator as 1 and the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as 10000 shares.
