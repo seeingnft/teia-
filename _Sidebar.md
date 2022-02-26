@@ -19,12 +19,11 @@
 **How-Tos**
 * [Edit your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile)
 * [Interactive OBJKTs](https://github.com/teia-community/teia-docs/wiki/Interactive-OBJKTs)
-* [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials)
 * [Contributing](https://github.com/teia-community/teia-docs/wiki/Contributing)
 * [Contributing (Beginner's Guide)](https://github.com/teia-community/teia-docs/wiki/Contributing-Beginners-Guide)
 
 **FAQs**
-* [General](https://github.com/teia-community/teia-docs/wiki/General)
+* [General FAQs](https://github.com/teia-community/teia-docs/wiki/General)
 * [Maintenance Fees](https://github.com/teia-community/teia-docs/wiki/Maintenance-fees)
 * [Troubleshooting](https://github.com/teia-community/teia-docs/wiki/Troubleshooting)
 * [OBJKT1SWAP](https://github.com/teia-community/teia-docs/wiki/OBJKTV1SWAP-migration-to-v2)
@@ -40,4 +39,5 @@
 ---
 **Under Construction**
 
-[Português](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
+* [Português Wiki](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
+* [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials)
