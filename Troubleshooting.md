@@ -1,26 +1,30 @@
 ## My profile isn't loading
-## I just minted an OBJKT and its not showing in my assets
-## I just collected an OBJKT but its not showing in the collection
+If you are using [Tezos Profiles](https://tzprofiles.com/), it might take some time for the profile to be activated.
+
+## I just minted an OBJKT and it's not showing in my assets
+It usually takes a few minutes for a new mint to show in your list of creations. If the mint doesn't show after that time, there might be an issue with the indexer and you would need to wait for that to be resolved. Until the indexer is fixed, the marketplace will display old data.
+
+## I just collected an OBJKT but it's not showing in the collection
+It usually takes a few minutes for a purchase to show in your list of collections. If the purchase doesn't show after that time, there might be an issue with the indexer and you would need to wait for that to be resolved.
+
 ## The OBJKTs I burned are still showing up in my assets
+It usually takes a few minutes for a transaction to be reflected in the marketplace. If the burned OBJKT still shows after that time, there might be an issue with the indexer and you would need to wait for that to be resolved.
 
-New mint not showing up, can’t swap Objkts, just collect an Objkt but not showing in the collection … etc. In fact, Hicetnunc is rarely down. All these problems are related to indexer lagging.
-If the indexer is lagging, the Hicetnunc website displays old data. So the collect fails (because the Objkt might have already been bought) and the swap doesn’t show up (exists in new data, not in the current data).
-
-If the transaction shows on your wallet just wait until the site catches up, usually about 24 hours.
+If the transaction shows on your wallet just wait until the site catches up.
 
 Read more here:
 https://medium.com/newyellow-crypto-notebook/is-hicetnunc-down-what-to-do-and-info-about-indexer-e2ae92c188be
 
 ## My OBJKT is stuck on "metadata on queue"
-Please try swapping your objkt. Metadata issue gets fixed when you swap
+Please try swapping your objkt. The metadata issue gets fixed when you swap.
 
 ## I'm using Firefox and I get the white page whenever I try to visit HEN or objkt
-Try clearing browser's cache.
+Try clearing the browser's cache.
 
 ## Someone sent me an unsolicited OBJKT. What do I do?
 These are called "airdrops", and they are common in the crypto community. You can keep it or burn it.
 
-## Is there a way to tell how many hDAO have been assigned to an objkt in the curated list?
+## Is there a way to tell how many hDAO has been assigned to an objkt in the curated list?
 Use this https://hicdex.com/objkt
 The hDAO is one of the parameters you will see in the list
 
@@ -31,10 +35,10 @@ Head over to the [github issues](https://github.com/teia-community/teia-ui/issue
 Try opening an incognito tab or clearing your cookies/cache to restart the wallet connection. You can also try a different browser. Also, try clicking the hamburger menu to "unsync" and then sync again.
 
 ## How do I edit the description of my NFT after I minted it?
-A transaction on a blockchain is irreversible. Once minted, you cannot edit the title, description, or tags. We recommend you consider burning it.
+A transaction on a blockchain is irreversible. Once minted, you cannot edit the title, description, or tags. We recommend you consider burning it and then re-minting it again.
 
 ## Nothing is working and I've tried all the troubleshooting possible. What should I do?
-We recommend to wait at least one day. The developers are constantly pushing updates to the site, and sometimes patience is the best answer.
+We recommend asking for help in the [Teia Discord](https://discord.gg/AQ56zrn55w).
 
 ## Wallet Errors
 ### I got "Storage quota exceeded for the operation" error - what happened?
@@ -47,7 +51,7 @@ The action you were trying to do will not have been completed, and you can retry
 
 ### I got "FA_2 insufficient balance" error when swapping - what happened?
 
-The usual cause for this is trying to swap more items that were minted. If you minted 10 items and try to swap 20, you'll receive this error.
+The usual cause for this is trying to swap more items that were minted. If you minted 10 items and tried to swap 20, you'll receive this error.
 
 ### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! 
 
@@ -64,6 +68,6 @@ _if these parameters fail, try going even higher_
 ![Storage fee adjustment in template wallet](https://i.ibb.co/7W3FNRR/Screen-Shot-2021-05-24-at-10-33-33-AM.png)
 
 ### HELP! I tried to raise the storage fees but I'm still getting the `BACKTRACKED` error!
-If raising storage fees doesn't work, you'll have to switch to using kukai wallet. You don't need to make a new wallet to do this. [Here](https://youtu.be/_9TwCzBBJGU) is a video tutorial on how to import your wallet to Kukai.
+If raising storage fees doesn't work, you'll have to switch to using Kukai wallet. You don't need to make a new wallet to do this. [Here](https://youtu.be/_9TwCzBBJGU) is a video tutorial on how to import your wallet to Kukai.
 
 
