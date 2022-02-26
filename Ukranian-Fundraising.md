@@ -34,7 +34,10 @@ organisations can be changed later if found problematic.
 
 ## How to set up a Contract for directing sales to the initiative contract
 
-this is the steps to allocate a percentage of your artwork sales to be donated to the donation contract setup by Versum Team & fxhash in Teia platform 
+this is the steps to allocate a percentage of your artwork sales to be donated to the donation contract setup by Versum Team & fxhash in Teia platform (Note: using this method is subject to 25-27% baking fee)
+
+You don’t need to add the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as a collaborator, only as a beneficiary. 
+
 
 First click on the menu button & click on the **collaborate** option:
 
