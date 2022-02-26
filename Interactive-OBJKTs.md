@@ -50,8 +50,8 @@ Interactive OBJKTS can access the following external domains:
 | domain        | img-src | media-src | font-src | prefetch-src | connect-src |
 | ------------- |:-------------:| -----:| -----:| -----:| -----:|
 | https://ipfs.infura.io/ | ✅ | ✅ | ✅ | ✅ |
-| https://*.infura.io/ | | | | ✅ |
-| https://infura.io/ | | | | ✅ |
+| https://*.infura-ipfs.io/ | |✅ | | ✅ | ✅
+| https://infura.io/ | | | |  | ✅|
 | https://cloudflare-ipfs.com/ | ✅ | ✅ | ✅ | ✅ |
 | https://ipfs.io/ | ✅ | ✅ | ✅ | ✅ |
 | https://gateway.pinata.cloud/ | ✅ | ✅ | ✅ | ✅ |
@@ -72,7 +72,15 @@ Interactive OBJKTS can access the following external domains:
 | https://teia.art/ | | | | | ✅ |
 | https://*.teia.art/ | | | | | ✅ |
 | https://api.hicdex.com/ | | | | | ✅ |
-| services.tzkt.io |✅ | | | |  |
+| https://*.infura.io/ | | | | | ✅ |
+| https://mainnet.smartpy.io/ | | | | | ✅ |
+| https://mainnet-tezos.giganode.io/ | | | | | ✅ |
+| https://hdapi.teztools.io/ | | | | | ✅ |
+| https://hicetnunc.xyz/ | | | | | ✅ |
+| https://*.hicetnunc.xyz/ | | | | | ✅ |
+| https://*.hicetnunc.art/ | | | | | ✅ |
+| https://services.tzkt.io |✅ | | | |  |
+| https://templewallet.com/logo.png |✅ | | | |  |
 ## User Data
 
 Your project will be displayed within a sandboxed iframe, meaning it won't have access to any user data from the [teia.art](http://teia.art) site. However, the viewer and creator addresses are passed into the iframe via URL query parameters:
@@ -91,7 +99,7 @@ const viewer = new URLSearchParams(window.location.search).get('viewer')
 ## Minting
 
 - Once your project folder is ready to be minted, go ahead and compress it into a zip file.
-- Head to [https://teia.art/mint](https://teia.art/mint), fill out the information for your work, and upload your zip file.
+- Head to [https://teia.art/mint](https://teia.art/mint), fill out the information for your work and upload your zip file.
 - You should now see a preview of your work embedded on the page. Make sure to test it thoroughly to make sure it works as expected.
 - If everything looks good, make sure your wallet is synced and press the "mint" button at the bottom of the page.
 - Congratulations! You have just minted your first interactive OBJKT 🎉
@@ -104,8 +112,8 @@ https://github.com/hicetnunc2000/hicetnunc/issues/602
 
 # Known Issues
 
-- If you are using Brave and notice the HTML preview not working on the mint page, you will need to disable your shields for this site, or reconfigure them to allow service workers.
+- If you are using Brave and notice the HTML preview not working on the mint page, you will need to disable your shields for this site or reconfigure them to allow service workers.
 
 # Help
 
-If you find a bug, please open an issue on [Github](https://github.com/teia-community/teia-ui/issues). Otherwise, seek help on [Discord](https://discord.com/invite/jKNy6PynPK).
+If you find a bug, please open an issue on [Github](https://github.com/teia-community/teia-ui/issues). Otherwise, seek help on [Teia Discord](https://discord.gg/AQ56zrn55w).
