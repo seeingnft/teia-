@@ -95,7 +95,7 @@ Select Save Profile, to save your settings. This transaction will need to be sig
 Once you're ready to mint and swap your artwork using the new collaboration contract, ensure you are signed in to the collaboration you'd like to mint with (if not already signed in from previous step) ie select the Sign In option associated with your collab
 
 Select your collaboration, to open its page.
-In the top right corner of the page, where your wallet id is usually shown, you should see both **<your wallet id> <(collab contract id)>** 
+In the top right corner of the page, where your wallet id is usually shown, you should see both --your wallet id-- --(collab contract id)-- 
 <img width="727" alt="collab-step19" src="https://user-images.githubusercontent.com/4126913/155848713-e035ba67-c964-44e7-b9e2-81fffcd51bfc.png">
 
 
