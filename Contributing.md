@@ -11,11 +11,11 @@
 
 ## PR
 
-We take PRs on a case-by-case basis. Please contact us in the discord in the #dev channel to have your PR considered.
+We take PRs on a case-by-case basis. Please contact us in the discord in the #general-dev channel to have your PR considered.
 
 You will need to create a feature branch from the `main` branch, write all your code there, and then when you submit your PR you submit it against the `main` branch.
 
-If anything else is new to you, don't feel intimidated, come and join us on Discord and we'll take the time to help. https://discord.gg/Yx6UN5SkCd
+If anything else is new to you, don't feel intimidated, come and join us on [Discord](https://discord.gg/AQ56zrn55w) and we'll take the time to help.
 
 ## Components
 
