@@ -7,6 +7,7 @@ If you wish to donate, send tezos (no direct NFT donations please, only tezos) o
 
 `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx`
 
+[View the fundraiser contracts transactions on tzkt.io](https://tzkt.io/KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx/operations)
 
 ## Supported Organisations
 
