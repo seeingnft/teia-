@@ -60,7 +60,7 @@ Select _next_ to continue to the Beneficiaries configuration screen
 
 <img width="708" alt="collab-step02" src="https://user-images.githubusercontent.com/4126913/155847354-95e78ca9-f1b3-4624-947d-828bf41c34ad.png">
 
-Click _Add addresses manually_ link, then add the donation contract, **KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx** to the Beneficiaries field, and set shares=10000. 
+Click _Add address manually_ link, then add the donation contract, **KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx** to the Beneficiaries field, and set shares=10000. 
 
 This will calculate percentage share between collaborators (you) and the beneficiaries (donation contract)
 
@@ -74,14 +74,14 @@ Select _next_ to continue. A summary of your configuration will be shown
 
 Confirm your configuration is correct (check addresses and shares configured in previous steps), then select _create collaborative contract_ to save your settings and create the new collaborative contract. You will then need to approve the action on your wallet to create the new collaboration
 
-The ****Manage collaborations screen** will be shown, with a message stating the contract was created successfully. Wait for the wallet transaction to complete, then refresh the page and the new collaboration contract id will be shown (a new KT* address for your collab)
+The **Manage collaborations screen** will be shown, with a message stating the contract was created successfully. Wait for the wallet transaction to complete, then refresh the page and the new collaboration contract id will be shown (a new KT* address for your collab)
 
 <img width="760" alt="collab-step7" src="https://user-images.githubusercontent.com/4126913/155847566-90dc8b5e-a5ac-4b64-ae50-d22e1343ba3f.png">
 
 Select Sign In option for the newly created collaboration contract
 <img width="741" alt="collab-step15" src="https://user-images.githubusercontent.com/4126913/155848240-65c39506-62dc-4826-96bd-723873fbda23.png">
 
-If you haven't named the collaboration contract, it will display a link to the Settings option, where you can setup your profile / assign a _Name_ & _Description_ for this new collab (note, this should be different to your usual Profile, choose a name to represent the collaboration/usage). 
+If you haven't named the collaboration contract, it will display a link to the Settings option, where you can setup your profile / assign a _Name_ & _Description_ for this new collab (note, this should be different to your usual Profile, choose a name to represent the collaboration/usage). Use lower case names.
 
 <img width="733" alt="collab-step16" src="https://user-images.githubusercontent.com/4126913/155848294-fd5e98c4-4a5d-4af8-a613-aeba3393cd4b.png">
 
