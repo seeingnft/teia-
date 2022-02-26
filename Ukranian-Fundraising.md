@@ -31,7 +31,7 @@ The currently supported organisations with this contract are:
 The organisations chosen are all non-militarian: Medical, aid, journalism, etc. and the List can be changed later if certain organisations are found to be problematic.
 
 
-## How to set up a Contract for directing sales to the initiative contract
+## How to set up a Collaboration Contract on Teia for directing sales to the initiative contract
 
 These are the steps to allocate a percentage of your artwork sales to be sent to the donation contract setup by Versum Team & fxhash in Teia platform
 
