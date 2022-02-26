@@ -1,13 +1,12 @@
-[Português](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
-
----
+**Urgent**
 * [Ukraine Fundraising](Ukranian-Fundraising)
 ---
+**General**
 * [Home](https://github.com/teia-community/teia-docs/wiki)
 * [Core Values/Code of Conduct/Terms & Conditions](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions)
 * [Reporting Abuse/Request Unban](https://github.com/teia-community/teia-docs/wiki/Reporting-Abuse-Requesting-Unban-on-the-Marketplace)
 
-
+---
 **Getting Started**
 * [Introduction](https://github.com/teia-community/teia-docs/wiki/Introduction)
 * [Getting started with Tezos](https://github.com/teia-community/teia-docs/wiki/Getting-Started-with-Tezos)
@@ -37,3 +36,7 @@
 * [IPFS Pinning](https://github.com/teia-community/teia-docs/wiki/IPFS-pinning)
 * [Community Forum](https://github.com/teia-community/teia-docs/wiki/Community-Forum)
 * [Beware Copyminters!](https://github.com/teia-community/teia-docs/wiki/Beware-copyminters!)
+
+---
+**Under Construction**
+[Português](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
