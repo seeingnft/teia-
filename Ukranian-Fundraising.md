@@ -33,10 +33,11 @@ The organisations chosen are all non-militarian: Medical, aid, journalism, etc. 
 
 ## How to set up a Contract for directing sales to the initiative contract
 
-These are the steps to allocate a percentage of your artwork sales to be sent to the donation contract setup by Versum Team & fxhash in Teia platform (Note: using this method is subject to 25-27% baking fee)
-[Find more info on the collab contract here](https://docs.hicathon.xyz/wg-32-sales-improvement-split-sales-and-royalties)
+These are the steps to allocate a percentage of your artwork sales to be sent to the donation contract setup by Versum Team & fxhash in Teia platform
 
-Addendum: You don’t need to add the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as a collaborator, you can add it only as a beneficiary. 
+For more information on the collab contract, visit: https://docs.hicathon.xyz/wg-32-sales-improvement-split-sales-and-royalties
+
+Addendum: You don’t need to add the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as a collaborator, instead, add it only as a beneficiary. 
 
 
 
