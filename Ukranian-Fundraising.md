@@ -54,7 +54,7 @@ Enter your address first with the number of shares as 10 and then an option for 
 
 
 
-Once another collaborator field shows up add the Contract Address `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` to the second field and enter the shares as well as 10 (If you want 100% of the proceeds to go to Ukraine set your share as a collaborator as 1 and the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as 10000 shares.)
+Once another collaborator field shows up add the Contract Address `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` to the second field and enter the shares as well as 10 
 
 Once you have made sure the address is enter correctly click on next:
 
@@ -66,7 +66,11 @@ In this stage click on add address manually:
 <img width='700px' src="img/ukraine_fundraiser/step_05.png">
 
 
-Add both address to beneficiaries as done before and then click next:
+Add both address to beneficiaries as done before 
+
+(If you want 100% of the proceeds to go to Ukraine set your share as a collaborator as 1 and the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as 10000 shares.)
+
+and then click next:
 
 <img width='700px' src="img/ukraine_fundraiser/step_06.png">
 
