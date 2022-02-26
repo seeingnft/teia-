@@ -11,13 +11,14 @@ Click on _create_ and the below fields should show up:
 <img src="img/ukraine_fundraiser/step_02.png">
 
 
-Enter your address first with the number of shares as 10 and then an option for another collaborator will show up and click on:
+Enter your address first with the number of shares as 10 and then an option to _add another collaborator_ will be shown and can be selected:
 
 <img src="img/ukraine_fundraiser/step_03.png">
 
 
 
 Once another collaborator field shows up add the Contract Address `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` to the second field and enter the shares as well as 10
+
 Once you have made sure the address is entered correctly, click on _next_:
 <img src="img/ukraine_fundraiser/step_04.png">
 
