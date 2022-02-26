@@ -36,12 +36,15 @@ The organisations chosen are all non-militarian: Medical, aid, journalism, etc. 
 These are the steps to allocate a percentage of your artwork sales to be sent to the donation contract setup by Versum Team & fxhash in Teia platform (Note: using this method is subject to 25-27% baking fee)
 [Find more info on the collab contract here](https://docs.hicathon.xyz/wg-32-sales-improvement-split-sales-and-royalties)
 
-Addendum: You don’t need to add the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as a collaborator, you can add it only as a beneficiary (instructions will be updated here). 
+Addendum: You don’t need to add the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as a collaborator, you can add it only as a beneficiary. 
+
 
 
 First click on the menu button & click on the **collaborate** option:
 
 <img width='700px' src="img/ukraine_fundraiser/step_01.png">
+
+
 
 Click on _create_ tab, to view the **Core Collaborators screen**
 <img width="718" alt="collab-step01c" src="https://user-images.githubusercontent.com/4126913/155847151-c2b8c8f9-7ad3-4128-a6ee-ceb4fb7a2777.png">
