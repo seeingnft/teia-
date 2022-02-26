@@ -27,14 +27,12 @@ The currently supported organisations with this contract are:
 [OutRight Action International](https://thegivingblock.com/donate/outright-action-international/) 
 
 
-the organisations chosen are all non-militarian, only medical, aid, journalism, etc.
-
-organisations can be changed later if found problematic.
+The organisations chosen are all non-militarian: Medical, aid, journalism, etc. and the List can be changed later if certain organisations are found to be problematic.
 
 
 ## How to set up a Contract for directing sales to the initiative contract
 
-this is the steps to allocate a percentage of your artwork sales to be donated to the donation contract setup by Versum Team & fxhash in Teia platform (Note: using this method is subject to 25-27% baking fee)
+This is the steps to allocate a percentage of your artwork sales to be donated to the donation contract setup by Versum Team & fxhash in Teia platform (Note: using this method is subject to 25-27% baking fee)
 
 You don’t need to add the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as a collaborator, only as a beneficiary. 
 
@@ -55,6 +53,7 @@ Enter your address first with the number of shares as 10 and then an option for 
 
 
 Once another collaborator field shows up add the Contract Address `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` to the second field and enter the shares as well as 10
+
 Once you have made sure the address is enter correctly click on next:
 
 <img width='700px' src="img/ukraine_fundraiser/step_04.png">
@@ -70,17 +69,16 @@ Add both address to beneficiaries as done before and then click next:
 <img width='700px' src="img/ukraine_fundraiser/step_06.png">
 
 Should look something like this example below
+
 Click on `create collaborative contract` button and confirm on your wallet:
 
 <img width='700px' src="img/ukraine_fundraiser/step_07.png">
 
 
-at the end `manage` tab should show your collab contract:
+At the end `manage` tab should show your collab contract:
 
 <img width='700px' src="img/ukraine_fundraiser/step_08.png">
 
 
 
-if you want 100% of the proceeds to go to Ukraine set your
-share as a collaborator as 1 and the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as
-10000 shares 
+If you want 100% of the proceeds to go to Ukraine set your share as a collaborator as 1 and the Ukraine Contract `KT1DWnLiUkNtAQDErXxudFEH63JC6mqg3HEx` as 10000 shares.
