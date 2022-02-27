@@ -14,7 +14,7 @@ Here's a list of red flags from copyminters:
 * The account is relatively new (you can check its transaction history by pasting the address into tzstats.com)
 * Use reverse search (in Chrome, right-click on an image and select “Search image with Google Lens”) to see who the original creator is. If it's a widespread gif or image, it's likely stolen.
 
-If you come across an account with any red flags, please report this abuse to [Hicetnunc Discord](https://discord.gg/72geN3hJaR). One of the moderators will investigate the report and can restrict the account.
+If you come across an account with any red flags, please report this abuse to [Hic Et Nunc Discord](https://discord.gg/72geN3hJaR). One of the moderators will investigate the report and can restrict the account.
 
 We are one of the fastest-moving inclusive platforms to arise in this current era of art, and it takes all of us together to uphold what makes Teia so great in the first place.  Thank you in advance for your contribution.
 
