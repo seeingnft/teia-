@@ -26,11 +26,11 @@ To run your own node, you can use the following Tools/Guides:
 * [Hicetnunc IPFS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
 * [Running IPFS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
 * [Pinata Pinning Tool](https://www.youtube.com/watch?v=FFNF0RX2O_k) (_Good for non-tech savvy people_)
-* https://github.com/ipfs/ipfs-companion Browser extension to pin from the browser
+* [Browser extension to pin from the browser](https://github.com/ipfs/ipfs-companion)
 
 ### Further Reading
-* https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475
-* https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/
-* https://docs.ipfs.io/how-to/pin-files/
-* https://filecoin.io/blog/posts/ipfs-filecoin-and-content-persistence/
-* https://docs.ipfs.io/concepts/content-addressing
+* [What is an IPFS Pinning Service?](https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475)
+* [Do You Really* Own Your NFT? Chances Are, You Don’t](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/)
+* [Pin files using IPFS](https://docs.ipfs.io/how-to/pin-files/)
+* [IPFS, Filecoin, and ‘Content Persistence’](https://filecoin.io/blog/posts/ipfs-filecoin-and-content-persistence/)
+* [Content addressing and CIDs](https://docs.ipfs.io/concepts/content-addressing)
