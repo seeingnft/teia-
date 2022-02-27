@@ -77,8 +77,6 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 * [HEN radio](https://hicetnunc.tools/radio) A simple OBJKT audio player By working group 7.2 with @__orderandchaos , during the first Hicathon. Supports MP3, WAV, and OGG. Can be embedded into any websites.
 
-* [Hicetnunc Collection Generator](https://github.com/tarwin/hicetnunc-collection-generator) by @tarwin generates thumbs and a gallery
-
 * [A gallery for your HEN collection, just connect your wallet.](https://hen-gallery.herokuapp.com/) by @PureSpider
 
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [[src]](https://github.com/gimmix-org/primitive-objkts) [[github]](https://github.com/gimmix-org/primitive-objkts)
@@ -89,6 +87,8 @@ The following services provide shortlinks to hicetnunc creation pages:
 This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from a given set of wallet ids and upload them to S3. 
 
 * [objkts.gallery](https://objkts.gallery) by @ishacbertran. Creates a beautiful slideshow gallery from a list of OBJKTs.
+
+* [Hicetnunc Collection Generator](https://github.com/tarwin/hicetnunc-collection-generator) github by @tarwin generates offline thumbs and a gallery  (Tested only on OSX) Last update 8 months ago
 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
@@ -102,3 +102,5 @@ This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from 
 * [hicdex](https://hicdex.com/) a blockchain indexer and GraphQL API for hic et nunc by [@marchingsquare](https://twitter.com/marchingsquare)
 
 * [copyminter.xyz](https://copyminter.xyz/) contains various tools to find copyminters.
+
+
