@@ -23,13 +23,14 @@ Please fill out this google form:
 If you make some sales and would like to support other new artists you can send XTZ donations to `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9` or `fountain.tez`
 
 **Common wallet errors**
+
 _account doesn't exist error from tzkt.io_
 
-_Pro tip: If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away._
+ If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away.
 
 _Prevalidation error in the temple wallet_
 
-_Pro tip: This means you should refresh the page. Wait a couple of seconds for the transaction to go through and you will get the "applied" status._
+This means you should refresh the page. Wait a couple of seconds for the transaction to go through and you will get the "applied" status.
 
 ***
 
