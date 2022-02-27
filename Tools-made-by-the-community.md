@@ -55,6 +55,8 @@ The following services provide shortlinks to hicetnunc creation pages:
 * [hetn.xyz](https://hetn.xyz) by [hetn.xyz](https://hetn.xyz) PAID
 
 ## Selling Tools
+* [Cryptonoises Bot](https://cryptonoises.com/): Telegram message for sales and collects made by @andriibakulin.
+
 * [Telegram Notifier Bot](https://tzsnt.fr/): Get a telegram message every time someone buys something.
 
 * [Audit tool](https://hicetnunc.miketyka.com/audit) Audit your creations and collection, see transaction histories.
@@ -81,7 +83,7 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 * [Digital Frame Maker](https://primitive-objkts.gimmix.org/) by [shahruz](https://github.com/shahruz). [[src]](https://github.com/gimmix-org/primitive-objkts) [[github]](https://github.com/gimmix-org/primitive-objkts)
 
-* [Hic et Nunc API CDK](https://github.com/OrderAndCh4oS/hicetnunc-api-cdk) by @__orderandchaosa (trimmed-down API for fetching wallet and objkt data from the blockchain with conseiljs, intended for use by Galleries.)
+* [Hic et Nunc API CDK](https://github.com/OrderAndCh4oS/hicetnunc-api-cdk) by @__orderandchaos (trimmed-down API for fetching wallet and objkt data from the blockchain with conseiljs, intended for use by Galleries.)
 
 * [Generate Thumbs and Upload to S3](https://github.com/OrderAndCh4oS/hicetnunc-generate-thumbs-and-upload-to-s3) By @__orderandchaos
 This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from a given set of wallet ids and upload them to S3. 
