@@ -4,7 +4,7 @@
 
 * [hicetnunc.tools](https://hicetnunc.tools) An unofficial list of community hicetnunc projects
 
-* https://hicdex.com/
+* [hicdex](https://hicdex.com/) a blockchain indexer and GraphQL API for hic et nunc by [@marchingsquare](https://twitter.com/marchin)gsquare)
 
 * [Discovery Tool](https://projects.stroep.nl/hicetnunc/#discover) by Mark Knol
 
@@ -25,12 +25,12 @@
 * [HEN User Discovery Tool](https://karengin.com/hen/#tz1ZuRLk8zSwHB9T9FzDQqsiryXprLrH5xF2) by [Art Alternator](https://twitter.com/aalternator) 
 
 ## Follow / Favorites
-* https://nftbiker.xyz/follow
-* https://hennycomb.glitch.me/
-* https://hic.af/
+* [Monitored wallets](https://nftbiker.xyz/follow)
+* [Newest mints](https://hennycomb.glitch.me/) from every H=N artist that you've collected.
+* [hic.af](https://hic.af/) supports following artists
 
 ## Giveaway Tools
-* https://dono.xtz.tools/
+* [hic et dono](https://dono.xtz.tools/)
 
 ## IPFS Pinning
 
@@ -65,15 +65,15 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 * [HICTORY](https://hictory.glitch.me/#tz2HwP1JKEjEy4H8RxPMkoHWuSzUWZsRSC3R) by [Leith Ben Abdessalem](https://twitter.com/LeithBA): An easy to read transaction history.
 
-* https://ufffd.com/hicettum/swaps
+* [Token history](https://nftbiker.xyz/history) Retrieve transactions history for a Tezos NFT by NFTBiker
 
-* https://batch.xtz.tools/
+* [Secondary market sales](https://hicdex.com/my-secondary-market-sales)
 
-* https://hicdex.com/my-secondary-market-sales
+* [Collection Appraisal](https://glry.xyz/value) 
 
 ## Gallery Tools
 
-* [A hic et nunc gallery tool, made by Andreas Rau] https://hexpo.andreasrau.eu/
+* [A hic et nunc gallery tool](https://hexpo.andreasrau.eu/), made by Andreas Rau
 
 * [HEN radio](https://hicetnunc.tools/radio) A simple OBJKT audio player By working group 7.2 with @__orderandchaos , during the first Hicathon. Supports MP3, WAV, and OGG. Can be embedded into any websites.
 
@@ -93,13 +93,13 @@ This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from 
 ## Misc
 * [Naive status page for hicetnunc.xyz](https://hicetnuncstatus.herokuapp.com/) by @fraguada @LeithBA [github](https://github.com/fraguada/hicetnuncstatus)
 
-* [https://batch.xtz.tools/](https://batch.xtz.tools) An FA2 token batch sender! 🥳 Makes it a lot easier to send lots of tokens to many people at once - no more waiting for your wallet to confirm transactions one by one! by [@purespider] (https://twitter.com/PureSpider/status/1391784668601651200?s=19) With this tool people could do freebie giveaways by collecting people's addresses and then batch-send OBJKTS.
+* [FA2 token batch sender](https://batch.xtz.tools) 🥳 Makes it a lot easier to send lots of tokens to many people at once - no more waiting for your wallet to confirm transactions one by one! by [@purespider](https://twitter.com/PureSpider/status/1391784668601651200?s=19) With this tool people could do freebie giveaways by collecting people's addresses and then batch-send OBJKTS.
 
 * [TZComet Token Viewer](https://tzcomet.io/#/token/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton/6291%3Falways-show-multimedia%3Dtrue) a tool to view all metadata and media data of OBJKTs (even banned ones). Simply paste the OBJKTs ID on top right and press Go.
 
 * [Collection grouping tool (OBJKT #59369)](https://www.hicetnunc.xyz/objkt/59369) by [@jagracar](https://twitter.com/jagracar). Groups your collection after artists and highlights copyminted OBJKTs in your (or any) collection
 
-* [hicdex](https://hicdex.com/) a blockchain indexer and GraphQL API for hic et nunc by [@marchingsquare](https://twitter.com/marchingsquare)
+* [Capital Gains and Losses](https://glry.xyz/gains) for Hic et Nunc Sales History, Gains and Losses
 
 * [copyminter.xyz](https://copyminter.xyz/) contains various tools to find copyminters.
 
