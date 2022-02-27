@@ -26,7 +26,6 @@
 * [General FAQs](https://github.com/teia-community/teia-docs/wiki/General)
 * [Maintenance Fees](https://github.com/teia-community/teia-docs/wiki/Maintenance-fees)
 * [Troubleshooting](https://github.com/teia-community/teia-docs/wiki/Troubleshooting)
-* [OBJKT1SWAP](https://github.com/teia-community/teia-docs/wiki/OBJKTV1SWAP-migration-to-v2)
 
 **Misc**
 * [NFT Creators' Code of Conduct](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Conduct)
