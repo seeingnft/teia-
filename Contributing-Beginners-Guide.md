@@ -1,12 +1,20 @@
 # How to Contribute to Teia? (Beginners Guide)
-You can contribute to Teia either by contributing bug fixes and development, and other helpful documents with new content or translations.
+You can contribute to Teia in the following ways: 
+* Fix bugs
+* Code development
+* Maintain documents
+* Translate documents
 
-Please read the [Contribution Guide](https://github.com/teia-community/teia-ui/blob/develop/CONTRIBUTING.md) or follow the steps below:
+You will need to have basic Git skills and have a GitHub account.
 
-Here are the steps to get started:
+Here are the steps to contribute:
+- Create a fork of [https://github.com/teia-community/teia-ui](https://github.com/teia-community/teia-ui)
+- Create a feature/fix branch on the fork using the following fork naming convention: `<feature-or-fix>/<feature-name-or-issue-id>`
+- Implement the feature/fix
+- Create a pull request to teia-ui
+- Verify the [automated build](https://github.com/teia-community/teia-ui/actions) succeeded
+- Request a code review
 
-* Create a Github account
-* Go to our repository and on the top right click the "Fork" button. This will create a copy of the repository to your own account.
-* From the forked repository (now on your account), feel free to make the changes you wish to see.
-* Once done, create a Pull Request (PR). A Pull request is basically a way for us to verify the content you want to add to the main repository. We will review it, request any amendments and if all goes well, merge it. After that, your contributions will generally go live in our next deployment cycle.
-* Please try to keep your PR as small and objective as possible, it makes it easier for us to add it into the main repository. For questions feel free to reach our on Discord for support, and thanks for your willingness to help this project. You can also talk to the devs in the #devs channel in the Discord.
+If all goes well, your pull request is merged. Keep your pull request as small as possible so it's easier to add it to the main repository. For questions, reach the dev team in the #general-dev channel of the [Teia Discord](https://discord.gg/QckkbVMcWu). 
+
+Thanks for your willingness to help with this project.
