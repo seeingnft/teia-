@@ -26,6 +26,7 @@
 * [General FAQs](https://github.com/teia-community/teia-docs/wiki/General)
 * [Maintenance Fees](https://github.com/teia-community/teia-docs/wiki/Maintenance-fees)
 * [Troubleshooting](https://github.com/teia-community/teia-docs/wiki/Troubleshooting)
+* [Governance on Teia](https://github.com/teia-community/teia-docs/wiki/Governance-on-Teia)
 
 **Misc**
 * [NFT Creators' Code of Conduct](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Conduct)
