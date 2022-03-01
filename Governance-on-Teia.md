@@ -2,6 +2,8 @@
 
 _(from the Teia Core Values Manifesto)_
 
+***
+
 The fundamental principles that shape the community are the same as those for its governance: Inclusivity, Respect, Community/Solidarity, Decentralization, Simplicity, Accessibility, Sustainability and Creativity.
 
 The process of forming a real DAO (Decentralized Autonomous Organization) will take a long time and we want to be able to vote on pressing decisions transparently and on-chain. We believe that, together, we can create tools, applications and processes respecting the community’s needs and wishes. we are all building the future of the TEIA ecosystem together.
