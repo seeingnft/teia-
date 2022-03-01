@@ -11,9 +11,9 @@ The process of forming a real DAO (Decentralized Autonomous Organization) will t
 
 ## Dao as a Goal
 
-_ “Decentralized autonomous organization (DAO) governance is coordinated using tokens or NFTs that grant voting powers. Admission to a DAO is limited to people who have a confirmed ownership of these governance tokens in a cryptocurrency wallet, and membership may be exchanged. Governance is conducted through a series of proposals that members vote on through the blockchain, and the possession of more governance tokens often translates to greater voting power. Contributions from members towards the organizational goals of a DAO can sometimes be tracked and internally compensated.”
+_“Decentralized autonomous organization (DAO) governance is coordinated using tokens or NFTs that grant voting powers. Admission to a DAO is limited to people who have a confirmed ownership of these governance tokens in a cryptocurrency wallet, and membership may be exchanged. Governance is conducted through a series of proposals that members vote on through the blockchain, and the possession of more governance tokens often translates to greater voting power. Contributions from members towards the organizational goals of a DAO can sometimes be tracked and internally compensated.”_
 
-(From Wikipedia, DAO Governance. https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) _
+_(From Wikipedia, DAO Governance. https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)_
 
 It is the goal of the Teia Community to form a DAO with governance through voting Tokens. 
 Teia's DAO is under construction, a process in which the whole community is invited to participate. We anticipate a long development phase in order to respect the main points of the Manifesto, such as recognizing diversity and facilitating inclusion. We anticipate that once created, the Teia DAO will continue to morph and improve, in order to respect the evolution of the platform and all of the communities to be represented.
