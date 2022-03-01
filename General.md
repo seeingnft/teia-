@@ -3,7 +3,7 @@
 First of all, congratulations. You can use the following the track your recent sales: https://hicdex.com/sold
 
 ## How do I get a notification when something sells?
-You can use the telegram notificatio bot or Cryptonoises bot that we have listed in the [Tools/Selling Tools](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community) section
+You can use the telegram notification bot or Cryptonoises bot that we have listed in the [Tools/Selling Tools](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community#selling-tools) section
 
 ## Where can I see overall statistics for the site?
 https://hicdex.com/charts
