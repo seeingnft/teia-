@@ -37,7 +37,7 @@ Ideally, verify every account you collect from. First, have they added artist in
 
 Unfortunately, there are people minting NFTs who did not create what they upload. These copyminters, as we call them, try to make a quick buck with art from other people. Collectors have to be very careful and use their own judgement to find out who the artists are and if the art is genuine.
 Be aware that devious copyminters attempt to fool collectors by using very similar artist-names especially of big-selling artists or prior to popular notified drops (eg adding an extra letter or even just a fullstop at the end of the name). 
-If the work seems very professional, has obvious signs of artistic effort and the price is very low with no artist information at all, be very careful - if you collect a work that is later found to be copyminted, it gets tagged as restricted and is essentially valueless. We recommend that you burn such objkts. [How to burn] {https://github.com/teia-community/teia-docs/wiki/How-to-burn-%F0%9F%94%A5}
+If the work seems very professional, has obvious signs of artistic effort and the price is very low with no artist information at all, be very careful - if you collect a work that is later found to be copyminted, it gets tagged as restricted and is essentially valueless. We recommend that you burn such objkts. [How to burn] (https://github.com/teia-community/teia-docs/wiki/How-to-burn)
 
 *Artists - to make it easier for collectors, please verify your profile (see above). Leave a link to any social profile or website in the description of your artwork, so potential buyers can validate the authenticity. 
 
