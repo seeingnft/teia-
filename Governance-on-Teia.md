@@ -1,5 +1,5 @@
-TEIA philosophy adds and expands this definition in its Manifesto:
-We believe in shared ownership on the platform, no one should have exclusive rights over others.
+`We believe in shared ownership on the platform, no one should have exclusive rights over others`
+_(from the Teia Core Values Manifesto)_
 
 The fundamental principles that shape the community are the same as those for its governance: Inclusivity, Respect, Community/Solidarity, Decentralization, Simplicity, Accessibility, Sustainability and Creativity.
 
