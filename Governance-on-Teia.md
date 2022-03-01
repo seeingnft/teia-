@@ -1,5 +1,3 @@
-# Governance on Teia
-
 TEIA philosophy adds and expands this definition in its Manifesto:
 We believe in shared ownership on the platform, no one should have exclusive rights over others.
 
