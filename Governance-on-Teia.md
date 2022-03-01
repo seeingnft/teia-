@@ -8,7 +8,7 @@ The fundamental principles that shape the community are the same as those for it
 The process of forming a real DAO (Decentralized Autonomous Organization) will take a long time and we want to be able to vote on pressing decisions transparently and on-chain. We believe that, together, we can create tools, applications and processes respecting the community’s needs and wishes. we are all building the future of the TEIA ecosystem together.
 
 
-##Dao as a Goal
+## Dao as a Goal
 
 _“Decentralized autonomous organization (DAO) governance is coordinated using tokens or NFTs that grant voting powers. Admission to a DAO is limited to people who have a confirmed ownership of these governance tokens in a cryptocurrency wallet, and membership may be exchanged. Governance is conducted through a series of proposals that members vote on through the blockchain, and the possession of more governance tokens often translates to greater voting power. Contributions from members towards the organizational goals of a DAO can sometimes be tracked and internally compensated.”
 
@@ -19,7 +19,7 @@ Teia's DAO is under construction, a process in which the whole community is invi
 The decision-making process of TEIA is horizontal and will take into account the needs and policies decided by all the groups represented. These groups will also have some economic autonomy in decision-making. 
 
 
-##Governance before a DAO is formed
+## Governance before a DAO is formed
 
 Until the DAO is formally created, a multisig wallet with ~15 rotating people has control of the platform’s funds (with a quorum required to complete transactions). This group does not have decision-making power, and only exists to implement the will of the community.
 
