@@ -2,6 +2,12 @@
 
 In support for our Ukrainian friends, brothers and sisters, [Veqtor](https://twitter.com/Veqtor/status/1497167740146266112?s=20&t=mmvu8KPxybOa0TQXX32nFw) from [Versum](https://twitter.com/versumofficial) in conjunction with [FxHash](https://twitter.com/fx_hash_/status/1497113572085751810?s=20&t=mmvu8KPxybOa0TQXX32nFw) set up a shared donation contract that will redirect tezos to multiple charity orgs (listed below) in support of Ukraine relief, and we want to help support this initiative.
 
+[NFTBiker](https://twitter.com/NFTBiker) set up an overview Page for the Event, where you can see the amount of money raised, the money already sent out to the orgs and the OBJKT that are minted with the collab contract so that profits & royalties are redirected to the donation smart contract:
+https://nftbiker.xyz/event/supportukraine
+
+He also built a page that lists OBJKTs by Ukranian Artists:
+https://nftbiker.xyz/event/ukraine
+
 
 If you wish to donate, send tezos (no direct NFT donations please, only tezos) or set up a collab contract on [teia.art](https://teia.art/) to direct % of the fees to this fundraiser address (see how to below):
 
