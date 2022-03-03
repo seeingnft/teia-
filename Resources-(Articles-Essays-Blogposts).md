@@ -2,12 +2,12 @@
 
 ## Teia
 
-*[Introducing Teia - by Lee Evans](https://xtz.news/nft-news/introducing-teia/)
-*[Press Relase for the Teia Launch](https://blog.teia.art/blog/teia-launch-press-release)
+* [Introducing Teia - by Lee Evans](https://xtz.news/nft-news/introducing-teia/)
+* [Press Relase for the Teia Launch](https://blog.teia.art/blog/teia-launch-press-release)
 ***
 ## Topic: NFT art
 
-*[WAGMI: an awkward dance of art and crypto - by Alexandra Crouwers] https://hart-magazine.be/artikels/wagmi-an-awkward-dance-of-art-and-crypto
+* [WAGMI: an awkward dance of art and crypto - by Alexandra Crouwers] https://hart-magazine.be/artikels/wagmi-an-awkward-dance-of-art-and-crypto
 ***
 ## Tech Articles
 
