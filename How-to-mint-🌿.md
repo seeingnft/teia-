@@ -2,6 +2,7 @@
 
 1: _(verb)_ to create an OBJKT (NFT)
 ***
+NOTE that if you mint NFTs on Teia we expect you to respect the [Core Values](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions) and especially note the detail on [copyminting](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#about-copyminting). (Copyminting is the act of taking another's work and minting it as your own.)
 
 1. You should have already created a wallet (we recommend [Temple](https://templewallet.com/) or [Kukai](https://wallet.kukai.app/)). Click on “Sync". Your browser will show a pop-up asking you to sync with your wallet.
 
