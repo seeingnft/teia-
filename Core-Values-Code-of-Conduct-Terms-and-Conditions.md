@@ -105,7 +105,7 @@ As artists and collectors of art, we want to acknowledge and protect intellectua
 - Artists should avoid suggesting that incorporated elements are original to them, unless that suggestion is integral to the meaning of the new work.
 - When copying another’s work, an artist should cite the source, whether in the new work or elsewhere (by means such as labeling or embedding), unless there is an articulable aesthetic basis for not doing so.
 
-*These bulletpoints on itellectual property are taken from page 11 of [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1000&context=scholcom](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1000&context=scholcom) and reflect our idea of how to handle the topic.*
+*These bulletpoints on intellectual property are taken from page 11 of [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1000&context=scholcom](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1000&context=scholcom) and reflect our idea of how to handle the topic.*
 
 ### Fairplay on the marketplace
 - In order to make collecting a good experience for everyone, collectors should voluntarily refrain from using automated tools for collecting, from hindering other participants from collecting and from interfering with the smart contract in any way.
