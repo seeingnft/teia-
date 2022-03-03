@@ -31,7 +31,7 @@
 **Misc**
 * [NFT Creators' Code of Conduct](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Conduct)
 * [Tools Made By the Community](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community)
-* [Essays & Blog posts](https://github.com/teia-community/teia-docs/wiki/Essays-blogs)
+* [Resources (Articles/Essays/Blog Posts)](https://github.com/teia-community/teia-docs/wiki/Resources-(Articles-Essays-Blogposts))
 * [IPFS Pinning](https://github.com/teia-community/teia-docs/wiki/IPFS-pinning)
 * [Community Forum](https://github.com/teia-community/teia-docs/wiki/Community-Forum)
 * [Beware Copyminters!](https://github.com/teia-community/teia-docs/wiki/Beware-copyminters!)
