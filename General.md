@@ -5,11 +5,8 @@ First of all, congratulations. You can use the following to track your recent sa
 ## How do I get a notification when something sells?
 You can use the telegram notification bot or Cryptonoises bot that we have listed in the [Tools/Selling Tools](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community#selling-tools) section
 
-## Where can I see overall statistics for the site?
-https://hicdex.com/charts
-
-## I want to create my own gallery. How do I do it?
-This is currently being developed. We are not taking any pull requests at the moment to have a gallery featured but you will be able to make your own in the future. Meanwhile have a look at the various tools [Tools/Gallery Tools](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community#gallery-tools), some might need coding knowledge.
+## How do I add my name and avatar to my profile?
+Please see [Editing your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile)
 
 ## What video formats/codecs are supported?
 We recommend mp4, although you can mint webm, mov, and ogv. H.265 codec is not supported, we recommend H.264.
@@ -20,11 +17,14 @@ Yes, currently (March 2022) the file size limit is 100MB. Some have noted proble
 ## I have an idea for a new feature or an improvement! Where can I submit it?
 The official way to submit features to the developers is on the [github issues](https://github.com/teia-community/teia-ui/issues). There is also the #feature-requests channel in the [Teia Discord](https://discord.gg/94mdtxcY).
 
-## How do I add my name and avatar to my profile?
-Please see [Editing your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile)
-
 ## Can I sell my OBJKTs on Opensea/Rarible?
 Opensea - no. Rarible - yes. Opensea announced in February 2021 that they will be working with Tezos. They haven't announced any news since then. We can only hope this will be an option in the future.
+
+## Can I sell my objktcom collection on teia (objktcom)? 
+If you minted a collection on objkt.com it will only be visible on objkt.com
+
+## What's the difference between hen and teia? 
+Hicetnunc (hen) is the first tezos nft platform and commenced officially on the first of March 2021. On the 11th of November, due to a number of reasons it was discontinued. A number of mirrors quickly appeared, using the open source code for hen. A team that has come to be called the teia community were given use of the mirror that used the domain hicetnunc.art. After much discussion it was agreed that the original name should not be used or referenced, and that a new name and an open source fork of the hen code would be pursued. A two month long naming process with several voting stages eventuated with the name Teia, and the domain teia.art went live on the second of February 2022.
 
 ## Why is my OBJKT not showing up on the latest feed?
 You need to have registered/updated a profile and/or hold some hDAO tokens to be shown on the feed. How much hDAO you need is relative to how much your mint and the current market price. If you have an updated profile you may mint ~7 OBJKTs per week window, beyond that you will need the minimum of (0.5tez, $1 or 0.1hDAO), in hDAO, per OBJKT, beyond your 7 free ones, furthermore, if you mint a lot in a 3-hour span, that threshold is fed through an exponential within that 3-hour window.
@@ -47,6 +47,12 @@ The fastest way to report a copyminter is to note the details, including the wal
 
 ## How can I promote my NFT or my NFT exhibition?
 On the Teia Discord please only use the channel #shill for self-promotion. If you shill in other channels a big black cloud will descend on you (and your post will be deleted, possibly with unsmiling emojis).
+
+## Where can I see overall statistics for the site?
+https://hicdex.com/charts
+
+## I want to create my own gallery. How do I do it?
+This is currently being developed. We are not taking any pull requests at the moment to have a gallery featured but you will be able to make your own in the future. Meanwhile have a look at the various tools [Tools/Gallery Tools](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community#gallery-tools), some might need coding knowledge.
 
 ## Do you support multiple languages?
 We are working on multiple language support on Teia. we also try to translate as many documents as possible to keep everything accessible. But currently teia.art is only available in English.
