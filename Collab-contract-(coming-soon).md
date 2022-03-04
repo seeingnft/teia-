@@ -1,0 +1,1 @@
+We intend to document the details and process of using the collaboration contract here
