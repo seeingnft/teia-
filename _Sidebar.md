@@ -20,7 +20,7 @@
 **How-Tos**
 * [Edit your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile)
 * [Interactive OBJKTs](https://github.com/teia-community/teia-docs/wiki/Interactive-OBJKTs)
-* [Contributing](https://github.com/teia-community/teia-docs/wiki/Contributing)
+* [Contributing (Dev)](https://github.com/teia-community/teia-docs/wiki/Contributing-(Dev))
 * [Contributing (Beginner's Guide)](https://github.com/teia-community/teia-docs/wiki/Contributing-Beginners-Guide)
 
 **FAQs**
