@@ -6,9 +6,9 @@ If you want to add ideas/feedback - go to the #✊core-values-philosophy channel
 
 # **Table of Contents**
 
-1. Core Values
-2. Code of Conduct
-3. Terms & Conditions (account restrictions)
+1. [Core Values](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#1-core-values)
+2. [Code of Conduct](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#2-code-of-conduct)
+3. [Terms & Conditions (account restrictions)](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#3-terms-and-conditions---account-restrictions)
 
 # 1. Core Values
 
