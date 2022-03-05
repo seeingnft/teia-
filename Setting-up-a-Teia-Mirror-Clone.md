@@ -2,8 +2,6 @@
 
 _by Manitcor_
 
-this was done on `npm 7.24.1` and `nodejs 15.14.0` on `Windows 10` using `WSL2` with `Ubuntu 20.04` but should work with many different setups. Try yours first before changing anything. 
-
 ### Using npm
 if you use yarn just translate the commands
 
