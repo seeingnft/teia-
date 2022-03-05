@@ -4,6 +4,7 @@
 **General**
 * [Home](https://github.com/teia-community/teia-docs/wiki)
 * [Core Values/Code of Conduct/Terms & Conditions](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions)
+* [NFT Creators' Code of Ethics](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Ethics)
 * [Reporting Abuse/Request Unban](https://github.com/teia-community/teia-docs/wiki/Reporting-Abuse-Requesting-Unban-on-the-Marketplace)
 * [Resources (Articles/Essays/Blog Posts)](https://github.com/teia-community/teia-docs/wiki/Resources-(Articles-Essays-Blogposts))
 
@@ -29,7 +30,6 @@
 * [Governance on Teia](https://github.com/teia-community/teia-docs/wiki/Governance-on-Teia)
 
 **Misc**
-* [NFT Creators' Code of Ethics](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Ethics)
 * [Tools Made By the Community](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community)
 * [IPFS Pinning](https://github.com/teia-community/teia-docs/wiki/IPFS-pinning)
 * [Community Forum](https://github.com/teia-community/teia-docs/wiki/Community-Forum)
@@ -37,6 +37,5 @@
 
 ---
 **Under Construction**
-
 * [Português Wiki](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
 * [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials)
