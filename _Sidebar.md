@@ -5,7 +5,7 @@
 * [Home](https://github.com/teia-community/teia-docs/wiki)
 * [Core Values/Code of Conduct/Terms & Conditions](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions)
 * [NFT Creators' Code of Ethics](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Ethics)
-* [Restricted accounts](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#3-terms-and-conditions---account-restrictions)
+* [Restricted accounts (report abuse/request unban)](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#3-terms-and-conditions---account-restrictions)
 * [Resources (Articles/Essays/Blog Posts)](https://github.com/teia-community/teia-docs/wiki/Resources-(Articles-Essays-Blogposts))
 
 ---
