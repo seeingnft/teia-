@@ -43,7 +43,7 @@ If the work seems very professional, has obvious signs of artistic effort and th
 
 ## I want to report a copyminter
 Currently all copyminter operations occur on the hicetnunc discord.
-The fastest way to report a copyminter is to note the details, including the wallet address in [hicetnuncs discord](https://discord.gg/Yx6UN5SkCd) in the #report-copyminters channel.
+The fastest way to report a copyminter is to note the details, including the wallet address in [hicetnuncs discord](https://discord.gg/Yx6UN5SkCd) in the #report-copyminters channel. (see also: [Restricted accounts (report abuse/request unban)](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#3-terms-and-conditions---account-restrictions))
 
 ## How can I promote my NFT or my NFT exhibition?
 On the Teia Discord please only use the channel #shill for self-promotion. If you shill in other channels a big black cloud will descend on you (and your post will be deleted, possibly with unsmiling emojis).
