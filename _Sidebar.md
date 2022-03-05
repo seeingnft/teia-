@@ -26,7 +26,7 @@
 
 ---
 **FAQs**
-* [General FAQs](https://github.com/teia-community/teia-docs/wiki/General)
+* [General FAQs](https://github.com/teia-community/teia-docs/wiki/General-FAQs)
 * [Maintenance Fees](https://github.com/teia-community/teia-docs/wiki/Maintenance-fees)
 * [Troubleshooting](https://github.com/teia-community/teia-docs/wiki/Troubleshooting)
 * [Governance on Teia](https://github.com/teia-community/teia-docs/wiki/Governance-on-Teia)
