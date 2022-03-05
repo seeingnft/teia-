@@ -29,7 +29,7 @@
 * [Governance on Teia](https://github.com/teia-community/teia-docs/wiki/Governance-on-Teia)
 
 **Misc**
-* [NFT Creators' Code of Conduct](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Conduct)
+* [NFT Creators' Code of Ethics](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Ethics)
 * [Tools Made By the Community](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community)
 * [IPFS Pinning](https://github.com/teia-community/teia-docs/wiki/IPFS-pinning)
 * [Community Forum](https://github.com/teia-community/teia-docs/wiki/Community-Forum)
