@@ -19,14 +19,14 @@ For Local webserver use after build
 3. serve
 4. Prompt will tell you port and URI (usually http://localhost:3000/)
 
-.htaccess for apache
-RewriteEngine on
-# Don't rewrite files or directories
-RewriteCond %{REQUEST_FILENAME} -f [OR]
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^ - [L]
-# Rewrite everything else to index.html to allow html5 state links
-RewriteRule ^ index.html [L]
+`.htaccess for apache`
+`RewriteEngine on`
+`# Don't rewrite files or directories`
+`RewriteCond %{REQUEST_FILENAME} -f [OR]`
+`RewriteCond %{REQUEST_FILENAME} -d`
+`RewriteRule ^ - [L]`
+`# Rewrite everything else to index.html to allow html5 state links`
+`RewriteRule ^ index.html [L]`
 
 
 ## netlify or Cloudflare
@@ -46,8 +46,9 @@ Cloudflare page, the process is similar ... have the repo in your own github acc
 ## vercel
 
 _by mel_
-npm install -g vercel 
-git clone https://github.com/hicetnunc2000/hicetnunc.git
-cd hicetnunc
-npm install 
-vercel 
+
+`npm install -g vercel `
+`git clone https://github.com/hicetnunc2000/hicetnunc.git`
+`cd hicetnunc`
+`npm install `
+`vercel `
