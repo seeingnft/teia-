@@ -18,24 +18,27 @@
 * [How to burn 🔥](https://github.com/teia-community/teia-docs/wiki/How-to-burn-🔥)
 * [How to resell 🏪](https://github.com/teia-community/teia-docs/wiki/How-to-resell-🏪)
 
+---
 **How-Tos**
 * [Edit your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile)
 * [Interactive OBJKTs](https://github.com/teia-community/teia-docs/wiki/Interactive-OBJKTs)
 * [Contributing (Dev)](https://github.com/teia-community/teia-docs/wiki/Contributing-(Dev))
 
+---
 **FAQs**
 * [General FAQs](https://github.com/teia-community/teia-docs/wiki/General)
 * [Maintenance Fees](https://github.com/teia-community/teia-docs/wiki/Maintenance-fees)
 * [Troubleshooting](https://github.com/teia-community/teia-docs/wiki/Troubleshooting)
 * [Governance on Teia](https://github.com/teia-community/teia-docs/wiki/Governance-on-Teia)
 
+---
 **Misc**
 * [Tools Made By the Community](https://github.com/teia-community/teia-docs/wiki/Tools-made-by-the-community)
 * [IPFS Pinning](https://github.com/teia-community/teia-docs/wiki/IPFS-pinning)
-* [Community Forum](https://github.com/teia-community/teia-docs/wiki/Community-Forum)
 * [Beware Copyminters!](https://github.com/teia-community/teia-docs/wiki/Beware-copyminters!)
 
 ---
-**Under Construction**
+**Under Construction/Coming soon**
 * [Português Wiki](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
 * [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials)
+* [Collab contract (how to)](https://github.com/teia-community/teia-docs/wiki/Collab-contract-(coming-soon))
