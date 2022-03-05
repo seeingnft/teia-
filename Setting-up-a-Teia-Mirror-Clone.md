@@ -2,8 +2,8 @@
 
 _by Manitcor_
 
-### Using npm
-if you use yarn just translate the commands
+### Build
+if you use pnpm or yarn just translate the commands
 
 ```bash
 git clone https://github.com/teia-community/teia-ui.git
@@ -12,9 +12,9 @@ npm install
 npm run start # to test locally 
 npm run build
 ```
-The output build can be found in the `build` directory, copy this output to your web server.
+The output build can be found in the `build` directory, copy the content of this folder to your web server's root.
 
-### `.htaccess` for apache
+### Setup `.htaccess` for Apache
 
 ```htaccess
 RewriteEngine on
@@ -28,29 +28,28 @@ RewriteRule ^ - [L]
 RewriteRule ^ index.html [L]
 ```
 
-## Netlify or Cloudflare
+## Netlify, Cloudflare or Vercel
 
-_by NFTBiker_
-
-I don't know for Digital Ocean, but the most straight forward way is Netlify or Cloudflare page. 
-For Netlify it's just:
-
-1. You need a free Github account and a free Netlify account
-2. Clone this repository in your own Github account
-3. Go to Netlify and use "New site from Git". When linking to your Github account, if you don't allow Netlify to access everything, you will have to follow their instructions to configure access to your cloned repository
-4. Follow Netlify deployment instructions, and for the build command use :
-CI=false npm run build
-
-Cloudflare page, the process is similar ... have the repo in your own github account, then cloudflare ask to connect to github, select repo, and then it build ... And it run ... Both work great, i've used both
+_by NFTBiker & mel_
 
 
-## Vercel
+### Requirements:
 
-_by mel_
+- [Github](https://github.com/) Account (not mandatory for Vercel, see [Vercel (local)](#Vercel))
+- Either a [Netlify](https://www.netlify.com/), [Cloudflare](https://www.cloudflare.com) or [Vercel](https://vercel.com/) free deployment account.
+- A [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of [teia-ui](https://github.com/teia-community/teia-ui)'s repository in your own Github account
+
+Then you need to login into the dashboard of your deployment service (Netlify, Cloudflare or Vercel), and either allow it access to all your repo, or just import the `teia-ui` one.
+
+Finally go to the settings of your project, and either add `CI` with the value `false` in the `environment variables` or change the build command to `CI=false npm run build`
+
+### Vercel (local)
+
+Vercel also allows you deploy a local git repository, without needing a Github account or a fork:
 
 ```bash 
 git clone https://github.com/teia-community/teia-ui.git
 cd teia-ui
-pnpm install # or npm install or yarn
+npm install
 npx vercel # follow the instructions
 ```
