@@ -42,7 +42,7 @@ If the work seems very professional, has obvious signs of artistic effort and th
 *Artists - to make it easier for collectors, please verify your profile (see above). Leave a link to any social profile or website in the description of your artwork, so potential buyers can validate the authenticity. 
 
 ## I want to report a copyminter
-Currently all copyminter operations occur on the hicetnunc discord.
+Currently all copyminter operations are handled via the hicetnunc account banlist.
 The fastest way to report a copyminter is to note the details, including the wallet address in [hicetnuncs discord](https://discord.gg/Yx6UN5SkCd) in the #report-copyminters channel. (see also: [About restricted accounts](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#3-terms-and-conditions---account-restrictions))
 
 ## How can I promote my NFT or my NFT exhibition?
