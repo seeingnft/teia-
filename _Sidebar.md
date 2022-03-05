@@ -5,7 +5,6 @@
 * [Home](https://github.com/teia-community/teia-docs/wiki)
 * [Core Values/Code of Conduct/Terms & Conditions](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions)
 * [NFT Creators' Code of Ethics](https://github.com/teia-community/teia-docs/wiki/NFT-Creators-Code-of-Ethics)
-* [Restricted accounts (report abuse/request unban)](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#3-terms-and-conditions---account-restrictions)
 * [Resources (Articles/Essays/Blog Posts)](https://github.com/teia-community/teia-docs/wiki/Resources-(Articles-Essays-Blogposts))
 
 ---
@@ -20,6 +19,7 @@
 
 ---
 **How-Tos**
+* [Restricted accounts (report abuse/request unban)](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#3-terms-and-conditions---account-restrictions)
 * [Edit your profile](https://github.com/teia-community/teia-docs/wiki/Edit-your-profile)
 * [Interactive OBJKTs](https://github.com/teia-community/teia-docs/wiki/Interactive-OBJKTs)
 * [Set up a Teia Clone/Mirror](https://github.com/teia-community/teia-docs/wiki/How-to-set-up-a-Teia-Mirror)
