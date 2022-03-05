@@ -1,6 +1,5 @@
-author: Leonard Schoelch @windspiek
+_author: Leonard Schoelch @windspiek_
 
-## NFT Creators' Code of Ethics	
 
 This code is intended as a framework of ethics for creators to foster a healthy long term relationship and trust with collectors.
 It is not intended to be enforced by anyone or to be used in any binding capacity.
