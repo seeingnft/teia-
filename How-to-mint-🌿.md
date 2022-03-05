@@ -12,7 +12,7 @@ NOTE that if you mint NFTs on Teia we expect you to respect the [Core Values](ht
 
 2. Approve the sync with your wallet.
 3. Click the "OBJKT (mint)" button in the hamburger drop-down menu.
-6. Fill out the information for your OBJKT. The number of editions is final; you can't add. Title, descriptions, tags, and royalties are also final. You can input the price of the OBJKT after the minting. You can upload display images/gifs depending on the media type. **The file size limit is currently 100MB**.
+6. Fill out the information for your OBJKT. The number of editions is final; you can't add. Title, descriptions, tags, and royalties are also final. You can input the price of the OBJKT after the minting. You can upload display images/gifs depending on the media type. **The file size limit is currently 100MB**. **Please note that minting the same media file twice leads to an account restriction! if you made a misake and want to re-mint your OBJKT, make sure to burn the old one first!** [(How to burn)](https://github.com/teia-community/teia-docs/wiki/How-to-burn-%F0%9F%94%A5)
 7. Click on Preview to see a preview of the mint. Double-check that the information for the mint is correct. If there is a mistake, click on the "back" link to change the information.
 8. Click on "mint OBJKT". You will be prompted to approve the transaction in your wallet app.
 9. Check in your wallet if the minting was confirmed. Times vary for how long the confirmation should take, but it usually takes a couple of minutes.
