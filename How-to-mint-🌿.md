@@ -3,7 +3,6 @@
 1: _(verb)_ to create an OBJKT (NFT)
 ***
 NOTE that if you mint NFTs on Teia we expect you to respect the [Core Values](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions) and especially note the detail on [copyminting](https://github.com/teia-community/teia-docs/wiki/Core-Values-Code-of-Conduct-Terms-and-Conditions#about-copyminting). (Copyminting is the act of taking another's work and minting it as your own, and your account will be restricted if you do this. It includes the act of minting the same work twice, either on the same or separate platforms.)
-
 **Please note that minting the same media file twice leads to an account restriction! if you made a misake and want to re-mint your OBJKT, make sure to burn the old one first!** [(How to burn)](https://github.com/teia-community/teia-docs/wiki/How-to-burn-%F0%9F%94%A5)
 
 
