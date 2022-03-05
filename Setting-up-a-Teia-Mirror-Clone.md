@@ -20,13 +20,14 @@ For Local webserver use after build
 4. Prompt will tell you port and URI (usually http://localhost:3000/)
 
 `.htaccess for apache`
-`RewriteEngine on`
-`# Don't rewrite files or directories`
-`RewriteCond %{REQUEST_FILENAME} -f [OR]`
-`RewriteCond %{REQUEST_FILENAME} -d`
-`RewriteRule ^ - [L]`
-`# Rewrite everything else to index.html to allow html5 state links`
-`RewriteRule ^ index.html [L]`
+
+`RewriteEngine on
+# Don't rewrite files or directories
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+# Rewrite everything else to index.html to allow html5 state links
+RewriteRule ^ index.html [L]`
 
 
 ## netlify or Cloudflare
