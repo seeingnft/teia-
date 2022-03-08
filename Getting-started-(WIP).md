@@ -60,11 +60,12 @@ Already have tezos?
 Continue to [How to mint 🌿](https://github.com/teia-community/teia-docs/wiki/How-to-mint-🌿) to create your first OBJKT!
 
 ---
+# How to mint
 
-### **mint**
+> **mint**
+>
+>1: _(verb)_ to create an OBJKT (NFT)
 
-1: _(verb)_ to create an OBJKT (NFT)
-***
 
 ## Important Rules and considerations
 
@@ -91,7 +92,7 @@ _**Copyminting** is the act of taking another's work and minting it as your own.
 9. Check in your wallet if the minting was confirmed. Times vary for how long the confirmation should take, but it usually takes a couple of minutes.
 10. Based on the number of editions you minted, you will see the new “OBJKTS” in your tezos wallet. These newly minted OBJKTs now belong to you.
 
-**Important:** _At this point your OBJKT doesn’t have a price on it._ 
+**Important:** At this point your OBJKT doesn’t have a price on it.
 
 Continue to [How to swap 🔃](https://github.com/teia-community/teia-docs/wiki/How-to-swap-🔃) to learn how to set prices for your OBJKTs.
 
@@ -99,13 +100,12 @@ Continue to [How to swap 🔃](https://github.com/teia-community/teia-docs/wiki/
 
 # How to swap
 
-**swap**
+>**swap**
+>
+>1: _(noun)_ an act, instance, or process of exchanging one thing for another
+>
+>2: _(verb)_ to set a price for your OBJKT
 
-1: _(noun)_ an act, instance, or process of exchanging one thing for another
-
-2: _(verb)_ to set a price for your OBJKT
-
-***
 
 1. Click on your OBJKT's link to see the details. If you are still synced to your wallet, you should see "swap" next to "info", "
 listings" and "history". (If you don’t see these options, then you have to sync your wallet again.)
@@ -114,8 +114,6 @@ listings" and "history". (If you don’t see these options, then you have to syn
 4. Input how much each edition should cost in Tezos.
 5. Click the "swap" button. You will be prompted to approve the transaction in your wallet app.
 
-
-***
 
 
 ### How can I track what I've sold?
@@ -126,41 +124,18 @@ You can use [hicdex](https://hicdex.com)
 
 You can use the [Telegram Notifier Bot](https://tzsnt.fr/) to get a notification every time something sells.
 
-
-***
-
-
 **Important:** _When swapping, you send an amount of OBJKTs out of your wallet. They're being held in a Teia escrow wallet, ready to be transferred to the buyer, which is why they're no longer visible in your wallet. Once the blockchain transaction finishes, the OBJKT is available for purchase at the price set, and your wallet should indicate that you sent that amount of OBJKTs._
 
 Proceed to [How to cancel ❌](https://github.com/teia-community/teia-docs/wiki/How-to-cancel-❌) to learn how to take your OBJKT off the market or change the price.
-***
-
-### Help, my wallet is giving me an `insufficient funds available` error!
-You might be trying to swap more editions than you minted, or your object is still for sale and you need to cancel it first.
-
-***
-
-### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! (`transaction likely to fail`)
-You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation). 
-
-```suggested parameters:
-mint - set storage to 310
-swap - set storage to 180
-```
-![Storage fee adjustment in template wallet](https://i.ibb.co/7W3FNRR/Screen-Shot-2021-05-24-at-10-33-33-AM.png)
-
-### HELP! I tried to raise the storage fees but I'm still getting the `BACKTRACKED` error!
-If raising storage fees doesn't work, you'll have to switch to using [Kukai wallet](https://wallet.kukai.app/). You don't need to make a new wallet to do this. [Here](https://youtu.be/_9TwCzBBJGU) is a video tutorial on how to import your wallet to Kukai.
 
 ---
 
 # How to cancel
 
-### **cancel**
+>**cancel**
+>
+>1: _(verb)_ to take your NFT off the market
 
-1: _(verb)_ to take your NFT off the market
-
-***
 
 To take your OBJKT off the marketplace and no longer for purchase:
 
@@ -170,7 +145,6 @@ To take your OBJKT off the marketplace and no longer for purchase:
 4. Now that they are back in your wallet, you can "swap" them again or burn them.
 
 If you want to delete your OBJKT, continue to [How to burn 🔥](https://github.com/teia-community/teia-docs/wiki/How-to-burn-🔥)
-***
 
 **Important:** _If you try to "swap" OBJKTs that are currently for sale, your wallet will throw a warning saying that you have `insufficient funds`. This is because you already sent your OBJKTs to the escrow wallet in the first swap. You need to "cancel" to get the OBJKTs back in your wallet, and then you can "swap" them again._
 
@@ -178,7 +152,8 @@ If you want to delete your OBJKT, continue to [How to burn 🔥](https://github.
 
 # How to burn
 
-1: _(verb)_ to "delete" your OBJKT
+>**burn**
+>1: _(verb)_ to "delete" your OBJKT
 
 Transactions on the blockchain are irreversible, so you can't "delete" them. The "burn" button sends the OBJKT to the [burn address](https://tzkt.io/tz1burnburnburnburnburnburnburjAYjjX/operations/), or you can send it yourself using your wallet app. The burn address is an open address that nobody owns a key to.
 
@@ -197,7 +172,6 @@ To burn an OBJKT:
 
 How to sell an OBJKT you own.
 
-***
 This is also referred to as placing your OBJKT on the secondary market.
 
 1. Make sure your wallet is synced.
@@ -208,14 +182,3 @@ This is also referred to as placing your OBJKT on the secondary market.
 6. Click on the "swap" button and confirm the transaction in your wallet app.
 
 _IMPORTANT: Once swapping something up for sale, it is held in the Teia escrow wallet while it is "on the market." Therefore, the OBJKT will disappear from your collections. Don't worry; it's still up for sale!_
-
-
-***
-
-### How can I track what I've sold?
-
-You can use the tools on [hicdex.com](hicdex.com) to track transaction history
-
-### How can I get notifications when I sell something?
-
-You can use the [Telegram Notifier Bot](https://tzsnt.fr/) to get a notification everytime something sells.
