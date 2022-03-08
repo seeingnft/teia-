@@ -39,7 +39,7 @@ A transaction on a blockchain is irreversible. Once minted, you cannot edit the 
 
 ## I am having trouble accessing Teia from the Russian Federation
 
-Unfortunately Manitcor who runs our main indexer had to put a geoblock on his indexer for the Russian Federation due to sanctions put in place by the Russian Federation. If you are in Russia and want to access Teia, you can either use a VPN setup to access the main Marketplace or you can use the alternative Teia mirror https://teia.rocks/  which was set up by teia community member zir0h.tez and runs on the "hicdex" indexer, that doesn't geoblock Russian users.
+Unfortunately Manitcor who runs our main indexer had to put a geoblock on his indexer for the Russian Federation due to sanctions against the Russian Federation put in place by the US government. If you are in Russia and want to access Teia, you can either use a VPN setup to access the main Marketplace or you can use the alternative Teia mirror https://teia.rocks/ which was set up by teia community member zir0h.tez and runs on the "hicdex" indexer, that doesn't geoblock Russian users.
 
 ## Nothing is working and I've tried all the troubleshooting possible. What should I do?
 We recommend asking for help in the [Teia Discord](https://discord.gg/AQ56zrn55w).
