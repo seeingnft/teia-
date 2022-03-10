@@ -46,6 +46,7 @@ In order to add (mint) OBJKTs, the collab manager must be signed in to the colla
 After artists have verified, the OBJKT will appear when they Manage Assets and look in Collabs.
 
 **Swapping a minted collab OBJKT**
+
 The collab manager (Alice, in our example) has to swap the OBJKT
 1)	The manager should sync their wallet then sign in to the collab. Click ‘manage assets’ to see the collab OBJKTs
 2)	The option to Swap should appear. Click on ‘swap’ and fill out the form as normal.
