@@ -1,5 +1,3 @@
-Collab Contract How To
-
 This article covers how two or more wallets can collaborate to put up a work jointly on teia.art  It is based on a [video](https://youtu.be/o-S6n4-cRvk) by @ktorn
 Note that one artist will need to be the lead collaborator, or manager, in the sense that they will manage the collab contract and do all minting and swapping. There is a higher fee for collab contracts (currently around 1.5 tez) because a new smart contract is being created. The lead collaborator will pay all fees.
 Once an OBJKT is minted, all collaborators will need to sign the work, to verify that they are in fact part of the collab. The OBJKT will appear under ‘collabs’ on each wallet that is a collaborator. It will show as 'unverified' until all collaborators have verified it.
