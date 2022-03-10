@@ -1,4 +1,7 @@
-This article covers how two or more wallets can collaborate to put up a work jointly on teia.art  It is based on a [video](https://youtu.be/o-S6n4-cRvk) by @ktorn.
+This article covers how two or more wallets can collaborate to put up a work jointly on teia.art  It is based on a [video](https://youtu.be/o-S6n4-cRvk) by @ktorn:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-S6n4-cRvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Another text-based example is that of @AliaK which details the [setting up](https://github.com/teia-community/teia-docs/wiki/Ukranian-Fundraising#how-to-set-up-a-collaboration-contract-on-teia-for-directing-sales-to-the-initiative-contract) of a collab contract that sets a Ukraine fundraiser as beneficiary.
 
 Note that one artist will need to be the lead collaborator, or manager, in the sense that they will manage the collab contract and do all minting and swapping. There is a higher initial fee for collab contracts (currently around 1.5 tez) because a new smart contract is being created. The lead collaborator will pay all fees.
