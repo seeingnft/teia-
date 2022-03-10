@@ -42,6 +42,5 @@
 **Under Construction/Coming soon**
 * [Português Wiki](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
 * [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials)
-* [How to collab contract](https://github.com/teia-community/teia-docs/wiki/Collab-contract-(coming-soon))
 * [How to mint and swap on the collab contract](https://github.com/teia-community/teia-docs/wiki/How-to-mint-on-the-collab-contract)
-* [Collab contract (how to)](https://github.com/teia-community/teia-docs/wiki/Collab-contract-(coming-soon))
+
