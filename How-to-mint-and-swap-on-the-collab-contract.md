@@ -1,4 +1,6 @@
-This article covers how two or more wallets can collaborate to put up a work jointly on teia.art  It is based on a [video](https://youtu.be/o-S6n4-cRvk) by @ktorn
+This article covers how two or more wallets can collaborate to put up a work jointly on teia.art  It is based on a [video](https://youtu.be/o-S6n4-cRvk) by @ktorn.
+Another text-based example is that of @AliaK which details the [setting up](https://github.com/teia-community/teia-docs/wiki/Ukranian-Fundraising#how-to-set-up-a-collaboration-contract-on-teia-for-directing-sales-to-the-initiative-contract) of a collab contract that sets a Ukraine fundraiser as beneficiary.
+
 Note that one artist will need to be the lead collaborator, or manager, in the sense that they will manage the collab contract and do all minting and swapping. There is a higher fee for collab contracts (currently around 1.5 tez) because a new smart contract is being created. The lead collaborator will pay all fees.
 Once an OBJKT is minted, all collaborators will need to sign the work, to verify that they are in fact part of the collab. The OBJKT will appear under ‘collabs’ on each wallet that is a collaborator. It will show as 'unverified' until all collaborators have verified it.
 Some wallet operations will take a little more time – up to a minute or two usually.
@@ -8,7 +10,7 @@ Referring to ktorns video, we call the manager or lead collaborator Alice, and t
 
 
 **Setting up the collab contract**
-1)	To begin the setup, Alice syncs to teia then clicks on Collaborate on the menu.
+1)	To begin the setup as contract manager, sync wallet with teia.art then click on Collaborate on the menu.
 2)	There are two tabs – Manage, for dealing with existing collabs, and Create, for creating new. Go to the Create tab.
 3)	Add the Core Collaborators by adding their addresses in. Use the ‘add another collaborator’ link to add each 
 4)	Set up the Shares, eg 2 collaborators who share equally, you can add equal numbers in the Shares field. Ytorn recommends treating shares as percentages. NOTE that shares cannot be changed after they have been committed.
