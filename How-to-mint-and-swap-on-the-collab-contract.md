@@ -44,7 +44,7 @@ In order to add (mint) OBJKTs, the collab manager must be signed in to the colla
 
 ## Minting an OBJKT
 1)	The collab manager (Alice, in our example) will sign in to the collab. Then click on OBJKT(mint), on the menu.
-2)	The Mint page is much the same, but will note that you are minting as the collab 
+2)	The Mint page is much the same as minting as an individual, but it will note that you are minting as the collab 
 3)	Fill out the Mint form as usual, including royalties. When you are happy, Preview, then mint OBJKT. Again, the manager will pay the small minting fee.
 
 
