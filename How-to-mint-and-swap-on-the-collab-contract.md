@@ -24,6 +24,7 @@ Secondary collaborators will now see the collab contract under their Collabs but
 The manager of the collab cannot change collaborators or beneficiaries or the shares in the contract, once it is finalised.
 
 **Managing the finalised contract**
+
 The manager of a contract can change the name and profile associated with the collab, by signing in to the collab contract.
 On your own account (in this example, Alice’s) make sure it is synced
 1)	Go to Collaborate on the menu, then click Sign In on the collab you wish to manage.
