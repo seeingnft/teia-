@@ -38,7 +38,9 @@ On your own account (in this example, Alice’s) make sure it is synced
 2)	The displayed wallet will now include both your own and the collab addresses. Now, menu items will relate to the collab contract rather than you personally (eg Edit Profile refers to the profile of the collab contract) 
 3)	Edit the collab name and profile pic by clicking Edit Profile. This will cost you a small fee.
 4)	To finish managing, click the menu and you should see Exit Collab, as well as Unsync.
+
 The collab is set up but there are no OBJKTs assigned to it.
+
 In order to add (mint) OBJKTs, the collab manager must be signed in to the collab. (Or, on the Minting page, they can change who they are minting as). Note that only the manager can mint. Other collaborators will not be able to mint on this contract (and may see a message ‘you are not part of any collaborations..’ which is not quite accurate, because they are just not *manager* of any contracts)
 
 ## Minting an OBJKT
