@@ -24,6 +24,7 @@
 * [Interactive OBJKTs](https://github.com/teia-community/teia-docs/wiki/Interactive-OBJKTs)
 * [Set up a Teia Clone/Mirror](https://github.com/teia-community/teia-docs/wiki/How-to-set-up-a-Teia-Mirror)
 * [Contributing (Dev)](https://github.com/teia-community/teia-docs/wiki/Contributing-(Dev))
+* [How to mint and swap on the collab contract](https://github.com/teia-community/teia-docs/wiki/How-to-mint-and-swap-on-the-collab-contract)
 
 ---
 **FAQs**
@@ -42,5 +43,5 @@
 **Under Construction/Coming soon**
 * [Português Wiki](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
 * [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials)
-* [How to mint and swap on the collab contract](https://github.com/teia-community/teia-docs/wiki/How-to-mint-and-swap-on-the-collab-contract)
+
 
