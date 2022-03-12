@@ -22,7 +22,11 @@ The decision-making process of TEIA is horizontal and will take into account the
 we started developing a prototype DAO token and smart contract for the TEIA DAO. The code is currently in development
 ([see this discord thread for the current DAO Tech dev](https://discord.com/channels/908672304236625970/946909003185791037/951597375317737473))
 
+
+### Tokenomics
 There is a [working doc on the tokenomics](https://docs.google.com/document/d/19e-UrTX5ME5ZUVpyc7ZunrTckJgei5UQsCeCHfB0nnk/edit#) and a [discourse thread](https://discourse.hencommunity.quest/t/the-hic-et-nunc-dao-implementation-discussion/286/21), the model will need to be adjusted along the [legal discusion](https://discourse.hencommunity.quest/t/discussion-writeup-the-legal-roadmap-for-teia-next-steps/597/1)
+
+Currently there seems to be a consensus towards quadratic voting and some kind of option to swap hDAO for the new Tea DAO Token.
 
 
 ## ORG-Structure
