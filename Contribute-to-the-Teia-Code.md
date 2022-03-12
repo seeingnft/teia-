@@ -33,10 +33,6 @@ Thanks for your willingness to help with this project.
 
 [Hic Et Nunc Smart Contracts (Part 1)](https://leonnicholls.medium.com/hic-et-nunc-smart-contracts-part-1-e4ad5d0934b9)
 
-## Testing
-
-We're currently implementing [Storybook](https://storybook.js.org/) which will be the ideal place where you can check how the components look. We're also currently implementing basic unit testing using [Jest](https://jestjs.io/).
-
 ## Components
 
 When creating a component you need to provide a few properties in order to render the component properly. Try to avoid creating prop drilling, or even accessing react context in a component. The components should be as dumb as possible. The only place where you should have access to API requests, or React.Context is at the page level (`src/pages/*`).
