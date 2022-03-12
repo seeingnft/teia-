@@ -39,9 +39,4 @@
 * [IPFS Pinning](https://github.com/teia-community/teia-docs/wiki/IPFS-pinning)
 * [Beware Copyminters!](https://github.com/teia-community/teia-docs/wiki/Beware-copyminters!)
 
----
-**Under Construction/Coming soon**
-* [Português Wiki](https://github.com/teia-community/teia-docs/wiki/Home-pt-BR)
-* [Community Tutorials](https://github.com/teia-community/teia-docs/wiki/Community-tutorials)
-
 
