@@ -19,15 +19,33 @@ It is the goal of the Teia Community to form a DAO with governance through votin
 Teia's DAO is under construction, a process in which the whole community is invited to participate. We anticipate a long development phase in order to respect the main points of the Manifesto, such as recognizing diversity and facilitating inclusion. We anticipate that once created, the Teia DAO will continue to morph and improve, in order to respect the evolution of the platform and all of the communities to be represented.
 The decision-making process of TEIA is horizontal and will take into account the needs and policies decided by all the groups represented. These groups will also have some economic autonomy in decision-making. 
 
+we started developing a prototype DAO token and smart contract for the TEIA DAO. The code is currently in development
+([see this discord thread for the current DAO Tech dev](https://discord.com/channels/908672304236625970/946909003185791037/951597375317737473))
+
+There is a [working doc on the tokenomics](https://docs.google.com/document/d/19e-UrTX5ME5ZUVpyc7ZunrTckJgei5UQsCeCHfB0nnk/edit#) and a [discourse thread](https://discourse.hencommunity.quest/t/the-hic-et-nunc-dao-implementation-discussion/286/21), the model will need to be adjusted along the [legal discusion](https://discourse.hencommunity.quest/t/discussion-writeup-the-legal-roadmap-for-teia-next-steps/597/1)
+
+
+## ORG-Structure
+
+for the structure of the Org there are two proposals that seem to be good corner stones reflecting what structure we want to build towards:
+
+### Malicious sheeps structure proposal:
+![Organization_Proposal](https://user-images.githubusercontent.com/97635650/158018380-bde4d699-f204-4c8e-a592-4ff92aae64c1.png)
+![Rotation_and_Responsibilites-2](https://user-images.githubusercontent.com/97635650/158018396-261fc397-3c8e-4005-8c9a-6e54528c39c0.png)
+
+
+### babycommandos Guild proposal
+We are also planning on implementing Multisig contracts for multiple Guilds (=Working Groups) that will enable a voting mechanism on decisions that are better decided by the people working on certain parts of the project in order to make decisionmaking more flexible and faster. [find babycommandos Guild proposal here](https://docs.google.com/document/d/10Or12QOKJ-xdO_Lkz33-86aVHyuz5lmheLhMwXgpEI0/edit?usp=sharing)
 
 ## Governance before a DAO is formed
 
-Until the DAO is formally created, a multisig wallet with ~15 rotating people has control of the platform’s funds (with a quorum required to complete transactions). This group does not have decision-making power, and only exists to implement the will of the community.
+Until the DAO is formally created, a multisig wallet with ~15 rotating people has control of the platform’s funds (with a quorum required to complete transactions). This group is not in place to form decisions, but exists to implement the will of the community.
 
-The current voting system takes place “on chain” via the [Teia Vote Tool](https://vote.hencommunity.quest/), and everybody with a TEIA account (wallet) has the right to vote. Votes cast on the website are recorded on the blockchain, and a script tallies and displays the votes on the website after the voting period ends. These results can be independently verified by the voters using the unchangeable blockchain data.
+Take a look at the Multisig here:
+https://multisign.onrender.com/
 
-Currently, all major proposals and questions are discussed at the [Teia Community Discord Server](https://discord.gg/bXyTPRx2) and the [Community Discourse Forum](https://discourse.hencommunity.quest/) before being put up for a vote. 
+The intermediate ways how consesnus is formed are via discussions with soft consensus, discord polls for small decisions and for bigger decisions we use on-chain voting via the [Teia Vote Tool](https://vote.hencommunity.quest/), where everybody with a TEIA account (wallet) created before a set date has the right to vote. Votes cast on the website are recorded on the blockchain, and a script tallies and displays the votes on the website after the voting period ends. These results can be independently verified by the voters using the unchangeable blockchain data. 
 
-Whoever wants to submit a proposal can access the TEIA Discord Channel where the proposal will be discussed by the entire community and taken to vote.
+Currently, all major proposals and questions are discussed at the [Teia Community Discord Server](https://discord.gg/bXyTPRx2) and the [Community Discourse Forum](https://discourse.hencommunity.quest/) before being put up for a vote. Whoever wants to submit a proposal can access the TEIA Discord Channel where the proposal will be discussed by the entire community and taken to vote. 
 
-We are also planning on implementing Multisig contracts for multiple Guilds (=Working Groups) that will enable a voting mechanism on decisions that are better decided by the people working on certain parts of the project in order to make decisionmaking more flexible and faster.
+[**see also the current legal roadmap discourse thread**](https://discourse.hencommunity.quest/t/discussion-writeup-the-legal-roadmap-for-teia-next-steps/597/1)
