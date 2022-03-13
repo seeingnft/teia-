@@ -10,7 +10,7 @@ want to fill the blank canvas that is Teia.
 
 Teia is build on Tezos blockchain, “a pioneering layer 1 Proof-of-Stake 
 blockchain, has always been recognized as an energy-efficient alternative to more traditional Proof 
-of Work blockchains. The total annual carbon footprint of the Tezos blockchain is equivalent to the average energy footprint of 17 global citizens.” (From [Tezos official page tezos.com](https://tezos.com/carbon/))
+of Work blockchains. The total annual carbon footprint of the Tezos blockchain is equivalent to the average energy footprint of 17 global citizens.” (Taken fromFrom [tezos.com](https://tezos.com/carbon/))
 
 Teia is and always will be a work-in-progress, built and improved by its participants. We believe that we as a collective can be bigger than 
 the sum of our members. 
