@@ -1,6 +1,19 @@
 Welcome to the [teia.art](https://teia.art/) wiki!
 
-The Teia Community is working on a community-owned, open source fork of the Tezos NFT platform [Hic et Nunc / H=N](https://www.hicetnunc.xyz/) that aims to continue the spirit of H=N in a decentralised way.
+The Teia Community is working on a community-owned, open-source fork of the Tezos NFT platform [Hic et Nunc/H=N](https://www.hicetnunc.xyz/) that aims to continue the spirit of H=N in a decentralised way.
+
+Teia is an open, digital platform for ideas and creative works, traded as OBJKT NFTs. 
+Teia is an artwork made of artworks; A place where artists and collectors come together as equals in order to emancipate and democratize 
+art. We want to elevate art, no matter how known or unknown the artist. We want to protect our art. We
+want to fill the blank canvas that is Teia.
+
+Teia is build on Tezos blockchain “a pioneering layer 1 Proof-of-Stake 
+blockchain, has always been recognized as an energy-efficient alternative to more traditional Proof 
+of Work blockchains. The total annual carbon footprint of the Tezos blockchain is equivalent to the average energy footprint of 17 global citizens.” (From [Tezos official page tezos.com](https://tezos.com/carbon/))
+
+Teia is and always will be a work-in-progress, built and improved by its participants. We believe that we as a collective can be bigger than 
+the sum of our members. 
+
 
 ## Enter the Teia Community
 - [teia.art](https://teia.art)
