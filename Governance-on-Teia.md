@@ -29,6 +29,14 @@ There is a [working doc on the tokenomics](https://docs.google.com/document/d/19
 
 Currently there seems to be a consensus towards quadratic voting and some kind of option to swap hDAO for the new Tea DAO Token.
 
+### Equity
+
+Our mission to reach true decentralization and equity includes a community-decided allotment to guarantee marginalized communities are 
+included in governance. We understand that now is the time to take a novel, genuine approach 
+to equitable governance and acknowledging the needs of our most underrepresented communities 
+in a concrete way. Leaders within these groups are being nominated by the community and will 
+be included in the weaving of the new Teia DAO.
+
 
 ## ORG-Structure
 
