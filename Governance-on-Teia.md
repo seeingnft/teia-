@@ -20,7 +20,7 @@ Teia's DAO is under construction, a process in which the whole community is invi
 The decision-making process of TEIA is horizontal and will take into account the needs and policies decided by all the groups represented. These groups will also have some economic autonomy in decision-making. 
 
 we started developing a prototype DAO token and smart contract for the TEIA DAO. The code is currently in development
-see this [discord discussion on the first Teia DAo Token prototype](https://discord.com/channels/908672304236625970/946909003185791037/951597375317737473)and find the
+see this [discord discussion on the first Teia DAo Token prototype](https://discord.com/channels/908672304236625970/946909003185791037/951597375317737473)and find the 
 [Teia DAO prototype on Github](https://github.com/teia-community/teia-smart-contracts/blob/main/python/contracts/daoToken.py)
 
 
