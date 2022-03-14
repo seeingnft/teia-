@@ -32,15 +32,15 @@ Some wallets compatible with our dApp are:
 ## Where to buy tezos
 Minting on Teia only costs ~0.05 tezos. You can buy some tezos on an exchange site like Binance or Kraken. However, the exchange service might be limited depending on your country and location.
 
-## The H=N Tezos Fountain
-### ⛲ Applying as an Artist
+## The H=N Tezos Fountain ⛲
+### Applying as an Artist
 Are you an artist who needs tez but can't get it? You can request a volunteer from the community to sponsor you in the #tezos-fountain channel on [Discord](https://discord.gg/EDrSbMzBeC).
 
 Please fill out this google form:
 * https://forms.gle/9NnshQ92tjs4JPw46
 * After filling out the form, please send us a message in the #tezos-fountain channel on the Discord saying that you filled out the form.
 
-### ⛲ Volunteering as a Sponsor
+### Volunteering as a Sponsor
 If you make some sales and would like to support other new artists you can send XTZ donations to `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9` or `fountain.tez`
 
 **Common wallet errors**
