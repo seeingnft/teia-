@@ -34,7 +34,7 @@ Minting on Teia only costs ~0.05 tezos. You can buy some tezos on an exchange si
 
 ## The Tezos Fountain ⛲
 ### Applying as an Artist
-Are you an artist who needs tez but can't get it? You can request a volunteer from the community to sponsor you in the #tezos-fountain channel on [the old hicetnunc discord Discord](https://discord.gg/EDrSbMzBeC).
+Are you an artist who needs tez but can't get it? You can request a volunteer from the community to sponsor you in the #tezos-fountain channel on [the old hicetnunc Discord](https://discord.gg/EDrSbMzBeC). The Tezos Fountain will be moved to the Teia Discord server soon.
 
 Please fill out this google form:
 * https://forms.gle/9NnshQ92tjs4JPw46
