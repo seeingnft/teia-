@@ -25,7 +25,7 @@ see this [discord discussion on the first Teia DAo Token prototype](https://disc
 
 
 ### Tokenomics
-There is a [working doc on the tokenomics](https://docs.google.com/document/d/19e-UrTX5ME5ZUVpyc7ZunrTckJgei5UQsCeCHfB0nnk/edit#) and a [discourse thread](https://discourse.hencommunity.quest/t/the-hic-et-nunc-dao-implementation-discussion/286/21), the model will need to be adjusted along the [legal discusion](https://discourse.hencommunity.quest/t/discussion-writeup-the-legal-roadmap-for-teia-next-steps/597/1)
+There is a [working doc on the tokenomics](https://docs.google.com/document/d/19e-UrTX5ME5ZUVpyc7ZunrTckJgei5UQsCeCHfB0nnk/edit#) and a [discourse thread](https://discourse.hencommunity.quest/t/the-hic-et-nunc-dao-implementation-discussion/286/21), the model will need to be adjusted along the [legal discusion](https://discourse.hencommunity.quest/t/discussion-writeup-the-legal-roadmap-for-teia-next-steps/597/1) the current prototype follows the FA2 standard and includes many on-chain views + an integrated token balance history via checkpoints
 
 Currently there seems to be a consensus towards quadratic voting and some kind of option to swap hDAO for the new Tea DAO Token.
 
