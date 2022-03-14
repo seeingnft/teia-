@@ -60,7 +60,7 @@ Already have tezos?
 Continue to [How to mint 🌿](https://github.com/teia-community/teia-docs/wiki/How-to-mint-🌿) to create your first OBJKT!
 
 ---
-# How to mint
+# How to mint 🌿
 
 > **mint**
 >
@@ -100,7 +100,7 @@ Continue to [How to swap 🔃](https://github.com/teia-community/teia-docs/wiki/
 
 ---
 
-# How to swap
+# How to swap 🔃
 
 >**swap**
 >
@@ -132,7 +132,7 @@ Proceed to [How to cancel ❌](https://github.com/teia-community/teia-docs/wiki/
 
 ---
 
-# How to cancel
+# How to cancel ❌
 
 >**cancel**
 >
@@ -152,7 +152,7 @@ If you want to delete your OBJKT, continue to [How to burn 🔥](https://github.
 
 ---
 
-# How to burn
+# How to burn 🔥
 
 >**burn**
 >1: _(verb)_ to "delete" your OBJKT
