@@ -9,7 +9,7 @@ Welcome to the Teia starting guide! Here you will learn how to mint and trade yo
 > 2: _(noun)_ an NFT minted with the hicetnunc minting contract
 
 
-Continute to [Getting Started with Tezos](https://github.com/teia-community/teia-docs/wiki/Getting-started#getting-started-with-tezos) to learn how to acquire some tezos!
+Continute to [Getting Started with Tezos](https://github.com/teia-community/teia-docs/wiki/Getting-started-(WIP)#getting-started-with-tezos) to learn how to acquire some tezos!
 
 Already have tezos? Continue to [How to mint 🌿](https://github.com/teia-community/teia-docs/wiki/How-to-mint-🌿) to create your first OBJKT!
 
