@@ -170,7 +170,7 @@ To burn an OBJKT:
 
 ---
 
-# How to resell
+# How to resell 🏪
 
 How to sell an OBJKT you own.
 
