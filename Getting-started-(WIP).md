@@ -43,13 +43,13 @@ Please fill out this google form:
 ### Volunteering as a Sponsor
 If you make some sales and would like to support other new artists you can send Tezos donations to `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9` or `fountain.tez`
 
-**Common wallet errors**
+## Common wallet errors
 
-_account doesn't exist error from tzkt.io_
+>account doesn't exist error from tzkt.io
 
- If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away.
+If your account on tzkt.io shows this, don't worry. It just means you don't have any transactions yet in your wallet. Once you receive some tezos it should go away.
 
-_Prevalidation error in the temple wallet_
+>Prevalidation error in the temple wallet
 
 This means you should refresh the page. Wait a couple of seconds for the transaction to go through and you will get the "applied" status.
 
@@ -57,7 +57,7 @@ This means you should refresh the page. Wait a couple of seconds for the transac
 
 Already have tezos? 
 
-Continue to [How to mint 🌿](https://github.com/teia-community/teia-docs/wiki/How-to-mint-🌿) to create your first OBJKT!
+Continue to [How to mint 🌿](https://github.com/teia-community/teia-docs/wiki/Getting-started-(WIP)#how-to-mint-) to create your first OBJKT!
 
 ---
 # How to mint 🌿
