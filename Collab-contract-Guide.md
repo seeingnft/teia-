@@ -1,4 +1,5 @@
-This article covers how two or more wallets can collaborate to put up a work jointly on teia.art  It is based on this video by @ktorn:
+This article covers how two or more wallets can collaborate to put up a work jointly on teia.art 
+It is based on this video by @ktorn:
 
 [![collabhowto](https://user-images.githubusercontent.com/97635650/157613103-23da4af4-b349-41c9-8905-241d70cbd1ac.JPG)](https://youtu.be/o-S6n4-cRvk)
 
