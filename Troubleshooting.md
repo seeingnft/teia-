@@ -43,7 +43,7 @@ Unfortunately Manitcor, who runs our main indexer, had to put a geoblock on his 
 
 If you are in Russia and want to access Teia, you can use the alternative Teia mirror https://teia.rocks/ which runs on the "hicdex" indexer, that doesn't geoblock Russian users.
 
-Another Option is using a VPN setup. You can just access teia.art via VPN or, for advanced users, to route to Teia/H=N as a VPN exception add: `hdapi.teztools.io` (this is the geoblocked indexer, the UI itself is not geoblocked at the moment)
+Another Option is using a VPN setup. You can just access teia.art via VPN or, for advanced users, to route to Teia/H=N as a VPN exception add: `hdapi.teztools.io` (this is the geoblocked indexer, the UI itself is not geoblocked at the moment) and also `hdapi.teztools.io` and `hdnet.teztools.net` (other indexers run by manitcor)
 
 Our blog [blog.teia.art](https://blog.teia.art/) seems to be blocked too by the server provider. you can access the blog through the alternative domain [hencommunity.quest/blog](https://hencommunity.quest/blog)
 
