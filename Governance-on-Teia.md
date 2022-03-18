@@ -62,3 +62,5 @@ The intermediate ways how consesnus is formed are via discussions with soft cons
 Currently, all major proposals and questions are discussed at the [Teia Community Discord Server](https://discord.gg/bXyTPRx2) and the [Community Discourse Forum](https://discourse.hencommunity.quest/) before being put up for a vote. Whoever wants to submit a proposal can access the TEIA Discord Channel where the proposal will be discussed by the entire community and taken to vote. 
 
 [**see also the current legal roadmap discourse thread**](https://discourse.hencommunity.quest/t/discussion-writeup-the-legal-roadmap-for-teia-next-steps/597/1)
+
+![teiavote](https://user-images.githubusercontent.com/97635650/159079191-a87b08dd-7b13-4efc-8df5-3710d651bc22.png)
