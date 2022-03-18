@@ -9,6 +9,10 @@
 * ["decentralized guilds" by babycommando](https://docs.google.com/document/d/10Or12QOKJ-xdO_Lkz33-86aVHyuz5lmheLhMwXgpEI0/edit?usp=sharing)
 * [Org structure proposal by malicious sheep](https://discourse.hencommunity.quest/t/organization-proposal/594)
 
+![teiavote](https://user-images.githubusercontent.com/97635650/159079046-090aea53-14a3-4442-a33e-587f59abaa5a.png)
+![Agora](https://user-images.githubusercontent.com/97635650/159079076-54f916e2-dfcf-4dc2-a1f8-e21d67eaac3f.png)
+
+
 ## PR-Communication
 
 * [Info flow proposal by Merchant Coppola](https://docs.google.com/document/d/1juzmxCvFsc1-_ayicFmNmrTD12YpQEJ3FZdzdDBUxFw/edit#)
