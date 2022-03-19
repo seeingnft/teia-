@@ -3,7 +3,7 @@ Swapping from collab contracts doesnt work currently.
 For swapping objkts with collab contracts, please use the alternative mirror http://teia.rocks - your swaps will then also appear on http://teia.art - we will work on fixing the issue.
 
 
-
+## Collab contract Guide
 This article covers how two or more wallets can collaborate to put up a work jointly on teia.art 
 It is based on this video by @ktorn:
 
