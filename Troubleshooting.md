@@ -15,6 +15,11 @@ If the transaction shows on your wallet just wait until the site catches up.
 Read more here:
 https://medium.com/newyellow-crypto-notebook/is-hicetnunc-down-what-to-do-and-info-about-indexer-e2ae92c188be
 
+## I cant swap my collab piece
+Swapping from collab contracts doesnt work currently due to the transition to the new marketplace contract.
+
+For swapping objkts with collab contracts, please use the alternative mirror http://teia.rocks to swap onto the old v2 contract - your swaps will then also appear on http://teia.art - we will work on fixing the issue asap!
+
 ## My OBJKT is stuck on "metadata on queue"
 Please try swapping your objkt. The metadata issue gets fixed when you swap.
 
