@@ -1,8 +1,8 @@
 ## Currently: 0% fee 
 
-Currently new swaps on Teia are carrying a 0% for the first phase of the Launch
-This will soon chnage and we plan to setting the Marketplace fee to something around 2.5% to cover the maintance costs.
-For now, we rely on donations and help by third parties.
+Currently new swaps on Teia are carrying a 0% for the first phase of the Launch.
+This will soon change and we plan to setting the Marketplace fee to something around 2.5% to cover the maintance costs.
+For now, we rely on donations to fund the operations.
 
 you can see the proof of the 0% fees here
 https://tzkt.io/KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w/storage/
