@@ -9,6 +9,10 @@ https://tzkt.io/KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w/storage/
 
 ## infra cost donations
 
+The estimated expense to keep the platform running is $1,350USD per month, and about $1,650USD remaining for one off expenses plus some expected amounts for legal and registration costs.
+
+To find out more about the expected monthly and one time expenses that will help to keep Teia operational, take a look at the [Teia Notion finances](https://www.notion.so/Finances-c15bd7bcf7ec4a67af13d7e162dc39bb) section. Currently there are no allocations for wages for any Teia community individuals, at this stage everyone is volunteering their time and energy.
+
 To cover the infra costs (indexer, server etc) that are run by manitcor/teztools we ask the community for donations into the following wallet:
 [https://tzkt.io/tz1VsAWHavM8PvJZpedLr5BWuveypGxSVJUf/operations/](https://tzkt.io/tz1VsAWHavM8PvJZpedLr5BWuveypGxSVJUf/operations/) 
 [](https://objkt.com/profile/hereandnow-fund/owned)This wallet was set up by manitcor/Teztools to collect funds for their operations and the funds there will go into upkeeping costs. you can also donate NFTs to that wallet.
