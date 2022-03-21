@@ -19,6 +19,7 @@
 * [Hicdex: the Hic Et Nunc indexer](https://leonnicholls.medium.com/hicdex-the-hic-et-nunc-indexer-bd45f27a228f)
 * [Minters for Hic Et Nunc](https://leonnicholls.medium.com/minters-for-hic-et-nunc-8b244b3d7ce0)
 * [Hic Et Nunc Metadata](https://leonnicholls.medium.com/hic-et-nunc-metadata-40e594530e31)
+* [hen dev resources list by crdng](https://github.com/i3games/hen-dev-resources/blob/main/list.md)
 
 ***
 ## Hicetnunc
