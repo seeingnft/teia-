@@ -8,6 +8,7 @@
 ## Articles about NFT art
 
 * [WAGMI: an awkward dance of art and crypto - by Alexandra Crouwers](https://hart-magazine.be/artikels/wagmi-an-awkward-dance-of-art-and-crypto)
+* [crdng's NFT reading list](https://github.com/i3games/nft-reading-list)
 ***
 ## Tech Articles
 
