@@ -3,11 +3,11 @@
 On March 20th Teia switched from hicetnuncs v2 marketplace contract to Teias own marketplace contract.
 This means, [marketplace fees](https://github.com/teia-community/teia-docs/wiki/Marketplace-Fees) collected with these swaps are now going to the Teia community Multisig Wallet, that is controlled by about 15 rotating members of the Teia community, and can be spent on Teias voted on budget. new swaps on teia executed after the contract went live are automatically swapped onto the teia marketplace contract, old swaps need to be reswapped in order to be on the teia swapping contract.
 
-Teia will keep on using hicetnuncs OBJKT minting contract for the time being. that means the OBJKTs minted on teia will show up on all marketplaces that show hicetnunc OBJKTs (i.e. hicetnunc.xyz, objktcom, rarible, hic.af, etc) this won't change no matter which platform supports which swapping contract. This article is only about which “listings/swapps” will appear on which site.
+>Teia will keep on using hicetnuncs OBJKT minting contract for the time being. that means the OBJKTs minted on teia will show up on all marketplaces that show hicetnunc OBJKTs (i.e. hicetnunc.xyz, objktcom, rarible, hic.af, etc) this won't change no matter which platform supports which swapping contract. This article is only about which “listings/swapps” will appear on which site.
 
 ## why does my swap (=listing price) not show up on hicetnunc/objkt.com/...?
 
-In order for those swaps to appear on other marketplaces like objkt.com, hicetnunc, hic.af, those marketplace need to support and index the Teia  swaps. This means the marketplaces need to change their indexers and adjust their UI a bit. 
+In order for those swaps to appear on other marketplaces like objkt.com, hicetnunc, hic.af, those marketplace need to support and index the Teia  swaps. This means the marketplaces need to change their indexers and adjust their UI a bit and is up to the marketplace owner(s) to decide which swaps they want to index.
 
 >if a marketplace X supports the swapping contract of marketplace Y, it means that OBJKTs swapped for trade on the marketplace Y contract will be also tradeable on marketplace X and even though the token got traded on marketplace X the fees will go to marketplace Y (if bought through the Y contract)
 
