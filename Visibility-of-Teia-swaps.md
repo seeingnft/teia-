@@ -13,33 +13,39 @@ In order for those swaps to appear on other marketplaces like objkt.com, hicetnu
 
 for example: currently objktcom support hicetnuncs v2 marketplace contract but the hicetnunc.xyz marketplace does not support objktcoms swapping contract, meaning: swaps from hicetnunc show up and are tradeable at objktcom but hicetnunc OBJKTs swapped on objktcom can’t be traded on hicetnunc.xyz.
 
-The Teia community is currently 
+The Teia community is currently in touch with other marketplaces that list OBJKT tokens. The general idea is to mutually show swaps from other marketplaces. The OBJKT pages at Teia could become a place where collectors can find all the listing prices from different marketplaces and compare all the available listing prices. We are currently in the process of negotiating with other marketplaces and putting the options we have to a vote.
 
-## which marketplace currently supports which swaps
+## which marketplace currently supports which swaps?
 
-### If you swap on *Teia.art* your listing prices will appear on:
+### If you swap on *Teia.art* 
+
+#### your listing prices will appear on:
 - teia.art
 - nftbiker.xyz/ (live feed and other tools)
 
-coming soon: 
+#### probably coming soon: 
 - objkt.com
 
-tbd
+#### tbd
 - versum
 - hic.af
 - others
 
-### if you swap on *hicetnunc.xyz* or *teia.surf* your listings will appear on:
+### if you swap on *hicetnunc.xyz* or *teia.surf* 
+
+#### your listings will appear on:
 - teia.art
 - nftbiker.xyz/ (live feed and other tools)
 - hic.af
 - objkt.com (objkt.com plans to no longer show hicetnunc swaps in the future)
 
-### if you swap on *objkt.com* your listings will appear on
+### if you swap on *objkt.com* 
+
+#### your listings will appear on
 - objkt.com
 
-tbd:
-- teia.art (
+#### tbd:
+- teia.art ([currently up for a vote](https://vote.hencommunity.quest/vote/QmPDYWmGdxae8gUxqiPa4rkuQCc8P6sggLvUi5HQrrCzug))
 
 
 
