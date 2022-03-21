@@ -29,8 +29,9 @@
 ---
 **FAQs**
 * [General FAQs](https://github.com/teia-community/teia-docs/wiki/General-FAQs)
-* [Marketplace Fees](https://github.com/teia-community/teia-docs/wiki/Marketplace-Fees)
 * [Troubleshooting](https://github.com/teia-community/teia-docs/wiki/Troubleshooting)
+* [Marketplace Fees](https://github.com/teia-community/teia-docs/wiki/Marketplace-Fees)
+* [Visibility of Teia swaps](https://github.com/teia-community/teia-docs/wiki/Visibility-of-Teia-swaps)
 * [Governance on Teia](https://github.com/teia-community/teia-docs/wiki/Governance-on-Teia)
 
 ---
