@@ -11,6 +11,7 @@
 ***
 ## Tech Articles
 
+* [Tezos NFT Marketplace Compatibility (mint) by crdng](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit#gid=0)
 * [The new Teia Marketplace Smart Contract - by Leon Nicholls](https://leonnicholls.medium.com/hic-et-nunc-v3-marketplace-smart-contract-ca1882b01b66)
 * [The Teia Multisig Contract - by Leon Nicholls](https://leonnicholls.medium.com/hic-et-nunc-multi-sig-smart-contract-d1f63fe5d24)
 * [Hicdex installation documentation](https://docs.google.com/document/d/1ER-IXFzpjE9fBIqDeNaaVECMkK9uvmQimUxghHbbYlU/edit?usp=sharing)
