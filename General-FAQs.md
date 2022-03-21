@@ -17,6 +17,10 @@ Yes, currently (March 2022) the file size limit is 100MB. Some have noted proble
 ## I have an idea for a new feature or an improvement! Where can I submit it?
 The official way to submit features to the developers is on the [github issues](https://github.com/teia-community/teia-ui/issues). There is also the #feature-requests channel in the [Teia Discord](https://discord.gg/94mdtxcY).
 
+## Why does my swap not appear on objkt.com/hic.af/other marketplaces?
+Since we switched to the Teia marketplace contract for new swaps on teia, in order for those swaps to appear on other platforms, those platforms need to index the Teia swaps. We are currently working towards getting as many marketplaces as possible to support teia swaps. Objkt.com told us they will support Teia swaps soon.
+See also: [visibility of Teias swaps](https://github.com/teia-community/teia-docs/wiki/Visibility-of-Teia-swaps)
+
 ## Can I sell my OBJKTs on Opensea/Rarible?
 Opensea - no. Rarible - yes. Opensea announced in February 2021 that they will be working with Tezos. They haven't announced any news since then. We can only hope this will be an option in the future.
 
