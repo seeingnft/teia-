@@ -4,6 +4,7 @@
 
 * [Introducing Teia - by Lee Evans](https://xtz.news/nft-news/introducing-teia/)
 * [Press Relase for the Teia Launch](https://blog.teia.art/blog/teia-launch-press-release)
+* ["A Closer Look into Teia" by William McKenzie](https://news.tezoscommons.org/a-closer-look-into-teia-b85c031a85d6)
 ***
 ## Articles about NFT art
 
