@@ -7,6 +7,10 @@ For now, we rely on donations to fund the operations.
 you can see the proof of the 0% fees here
 https://tzkt.io/KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w/storage/
 
+### collab contract swaps
+
+currently collab contract swaps on teia.art will still be onto hicetnunc v2 marketplace contract for technical reasons. The dev team works on bringig collab contract swaps to the new teia marketplace contract
+
 ## infra cost donations
 
 The estimated expense to keep the platform running is $1,350USD per month, and about $1,650USD remaining for one off expenses plus some expected amounts for legal and registration costs.
