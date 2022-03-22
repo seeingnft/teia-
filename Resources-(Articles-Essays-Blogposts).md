@@ -2,25 +2,25 @@
 
 ## Teia
 
-* [Introducing Teia - by Lee Evans](https://xtz.news/nft-news/introducing-teia/)
+* [A Closer Look into Teia](https://news.tezoscommons.org/a-closer-look-into-teia-b85c031a85d6) by William McKenzie
+* [Introducing Teia](https://xtz.news/nft-news/introducing-teia/) by Lee Evans
 * [Press Relase for the Teia Launch](https://blog.teia.art/blog/teia-launch-press-release)
-* ["A Closer Look into Teia" by William McKenzie](https://news.tezoscommons.org/a-closer-look-into-teia-b85c031a85d6)
 ***
 ## Articles about NFT art
 
-* [WAGMI: an awkward dance of art and crypto - by Alexandra Crouwers](https://hart-magazine.be/artikels/wagmi-an-awkward-dance-of-art-and-crypto)
-* [crdng's NFT reading list](https://github.com/i3games/nft-reading-list)
+* [WAGMI: an awkward dance of art and crypto](https://hart-magazine.be/artikels/wagmi-an-awkward-dance-of-art-and-crypto) by Alexandra Crouwers
+* [NFT reading list](https://github.com/i3games/nft-reading-list) by crdng
 ***
 ## Tech Articles
 
-* [Tezos NFT Marketplace Compatibility (mint) by crdng](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit#gid=0)
-* [The new Teia Marketplace Smart Contract - by Leon Nicholls](https://leonnicholls.medium.com/hic-et-nunc-v3-marketplace-smart-contract-ca1882b01b66)
-* [The Teia Multisig Contract - by Leon Nicholls](https://leonnicholls.medium.com/hic-et-nunc-multi-sig-smart-contract-d1f63fe5d24)
+* [Tezos NFT Marketplace Compatibility (mint)](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit#gid=0) by crdng
+* [The new Teia Marketplace Smart Contract](https://leonnicholls.medium.com/hic-et-nunc-v3-marketplace-smart-contract-ca1882b01b66) by Leon Nicholls
+* [The Teia Multisig Contract](https://leonnicholls.medium.com/hic-et-nunc-multi-sig-smart-contract-d1f63fe5d24) by Leon Nicholls
 * [Hicdex installation documentation](https://docs.google.com/document/d/1ER-IXFzpjE9fBIqDeNaaVECMkK9uvmQimUxghHbbYlU/edit?usp=sharing)
 * [Hicdex: the Hic Et Nunc indexer](https://leonnicholls.medium.com/hicdex-the-hic-et-nunc-indexer-bd45f27a228f)
 * [Minters for Hic Et Nunc](https://leonnicholls.medium.com/minters-for-hic-et-nunc-8b244b3d7ce0)
 * [Hic Et Nunc Metadata](https://leonnicholls.medium.com/hic-et-nunc-metadata-40e594530e31)
-* [hen dev resources list by crdng](https://github.com/i3games/hen-dev-resources/blob/main/list.md)
+* [hen dev resources list](https://github.com/i3games/hen-dev-resources/blob/main/list.md) by crdng
 
 ***
 ## Hicetnunc
